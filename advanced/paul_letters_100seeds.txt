@@ -1,0 +1,35 @@
+400-word passages, 100 runs x 20 passages per letter. Lineup: Basil, Libanius, Julian, Ignatius, Ps-Ignatius, Paul (chance 1 in 6)
+
+book: share of passages given to Paul (and the most common other choice)
+  Ro         Paul, held out  Paul  96%   next: Ps-Ignatius 4%
+  1Co        Paul, held out  Paul 100%
+  2Co        Paul, held out  Paul 100%
+  Ga         Paul, held out  Paul 100%
+  Php        Paul, held out  Paul 100%
+  1Th        Paul, held out  Paul 100%
+  Eph        disputed        Paul 100%
+  Col        disputed        Paul 100%
+  2Th        disputed        Paul 100%
+  Pastorals  disputed        Paul  84%   next: Ps-Ignatius 16%
+  Heb        not Paul        Paul  86%   next: Ps-Ignatius 13%
+  1Pe        not Paul        Paul 100%
+  Jas        not Paul        Paul 100%   next: Ps-Ignatius 0%
+  1Clement   not Paul        Paul   6%   next: Ps-Ignatius 77%
+  Barnabas   not Paul        Paul  10%   next: Ps-Ignatius 77%
+
+classifier: share of passages given to Paul (and the most common other choice)
+  Ro         Paul, held out  Paul  99%   next: Ps-Ignatius 1%
+  1Co        Paul, held out  Paul  98%   next: Ps-Ignatius 1%
+  2Co        Paul, held out  Paul 100%
+  Ga         Paul, held out  Paul  98%   next: Basil 2%
+  Php        Paul, held out  Paul  96%   next: Ignatius 4%
+  1Th        Paul, held out  Paul  99%   next: Basil 1%
+  Eph        disputed        Paul  95%   next: Basil 5%
+  Col        disputed        Paul  99%   next: Basil 1%
+  2Th        disputed        Paul  99%   next: Ps-Ignatius 1%
+  Pastorals  disputed        Paul  79%   next: Basil 10%
+  Heb        not Paul        Paul  78%   next: Basil 14%
+  1Pe        not Paul        Paul  99%   next: Basil 0%
+  Jas        not Paul        Paul  95%   next: Libanius 2%
+  1Clement   not Paul        Paul   6%   next: Basil 56%
+  Barnabas   not Paul        Paul  22%   next: Ps-Ignatius 40%

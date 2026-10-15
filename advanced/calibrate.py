@@ -1,4 +1,4 @@
-"""Step 1: measure each method's error rate on 9 Greek authors whose authorship is not in dispute.
+r"""Step 1: measure each method's error rate on 9 Greek authors whose authorship is not in dispute.
 Every test sample comes from a work that is held out of the reference material, so a method can't win by
 recognizing a book's topic or characters.
  A. Attribution (which of 9 authors wrote this sample?), chance = 11%:
@@ -8,14 +8,18 @@ recognizing a book's topic or characters.
  B. Verification (same author or not?) on pairs of samples from DIFFERENT works:
       AUC (0.5 = coin flip, 1 = perfect) for Simple distance, cosine, and General Impostors;
       then likelihood ratios calibrated by logistic regression, with Cllr (0 = perfect, 1 = uninformative),
-      fitted on half the authors and tested on the other half."""
-import json, numpy as np
+      fitted on half the authors and tested on the other half.
+
+Run:            py -3.12 advanced\calibrate.py        (one run, seed 7: 400 words = 59% / 74% / 80%)
+Several seeds:  py -3.12 advanced\calibrate.py 20     (20 runs with seeds 7..26, spread over your CPU cores)
+Some authors:   py -3.12 advanced\calibrate.py Philo Justin Eusebius Origen ClementAlex
+One run takes about 5 minutes on one core."""
+import json, os, numpy as np
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import roc_auc_score
 from common import AUTH, chunk, feats, simple, Scaler, cos_sim, impostors, NT, OTHER
-rng = np.random.default_rng(7)
+rng = np.random.default_rng(7)      # fixed seed, so results are reproducible
 A = list(AUTH); SIZES = [250, 400, 700, 1000, 1500, 2500]
-res = {"attribution": {}, "verification": {}}
 
 def pool_scaler(n):
     X = [feats(chunk(t, n, rng)) for a in A for t in AUTH[a].values() for _ in range(4)]
@@ -52,13 +56,11 @@ def calib(rows, key, A=A):
         llr += list(m.decision_function([[r[key]] for r in te]) - prior); ys += [r["y"] for r in te]
     return cllr(llr, ys), llr, ys
 
-if __name__ == "__main__":
-    import sys
-    SUB = sys.argv[1:]            # optional: restrict to some authors, e.g. the Christian and Jewish writers
-    if SUB: A = SUB
-    print(f"Authors: {A}")
-    print("A. Attribution: which author wrote a sample from a work the method has never seen (chance 1 in " + str(len(A)) + ")")
-    print(f"{'words':>6} {'book method':>12} {'cosine':>8} {'classifier':>11}")
+def run(seed, authors):
+    """One full experiment (parts A and B) with one seed; returns the results dict."""
+    global rng, A
+    rng = np.random.default_rng(seed); A = list(authors)
+    res = {"attribution": {}, "verification": {}}
     for n in SIZES:
         sc = pool_scaler(n); ok = {"simple": [], "cosine": [], "classifier": []}
         for trial in range(15):
@@ -80,10 +82,6 @@ if __name__ == "__main__":
                     ok["cosine"].append(max(A, key=lambda b: cos_sim(z[None], cent[b][None])[0, 0]) == a)
                     ok["classifier"].append(clf.predict(z[None])[0] == a)
         res["attribution"][n] = {k: float(np.mean(v)) for k, v in ok.items()}
-        r = res["attribution"][n]; print(f"{n:>6} {r['simple']:>12.0%} {r['cosine']:>8.0%} {r['classifier']:>11.0%}", flush=True)
-    
-    print("\nB. Verification: are two samples (from different works) by the same author?")
-    print(f"{'words':>6} {'AUC simple':>11} {'AUC cosine':>11} {'AUC impostors':>14} {'Cllr cosine':>12} {'Cllr impostors':>15}")
     for n in (400, 700, 1500, 2500):
         sc = pool_scaler(n); rows = pairs(n, sc, A=A); y = [r["y"] for r in rows]
         auc = {k: roc_auc_score(y, [r[k] for r in rows]) for k in ("simple", "cosine", "gi")}
@@ -91,5 +89,42 @@ if __name__ == "__main__":
         res["verification"][n] = dict(auc=auc, cllr_cosine=cc, cllr_gi=cg,
             median_log10_lr_same=float(np.median(np.array(llr_c)[np.array(yc) == 1]) / np.log(10)),
             median_log10_lr_diff=float(np.median(np.array(llr_c)[np.array(yc) == 0]) / np.log(10)), n_pairs=len(rows))
-        print(f"{n:>6} {auc['simple']:>11.2f} {auc['cosine']:>11.2f} {auc['gi']:>14.2f} {cc:>12.2f} {cg:>15.2f}", flush=True)
-    json.dump(res, open("calibration_results" + ("_" + "-".join(SUB) if SUB else "") + ".json", "w"), indent=1)
+    return res
+
+def cell(v, pct):
+    """One table cell: the value, or with several runs 'average (lowest-highest)'."""
+    f = (lambda x: f"{x:.0%}") if pct else (lambda x: f"{x:.2f}")
+    return f(v[0]) if len(v) == 1 else f"{f(np.mean(v))} ({f(min(v))}-{f(max(v))})"
+
+if __name__ == "__main__":
+    import sys
+    from concurrent.futures import ProcessPoolExecutor
+    nums = [a for a in sys.argv[1:] if a.isdigit()]
+    SUB = [a for a in sys.argv[1:] if not a.isdigit()]   # optional: restrict to some authors
+    N_SEEDS = int(nums[0]) if nums else 1
+    authors = SUB or list(AUTH)
+    print(f"Authors: {authors}")
+    if N_SEEDS == 1:
+        runs = [run(7, authors)]
+    else:
+        print(f"{N_SEEDS} runs, seeds 7..{6 + N_SEEDS}; each takes about 5 minutes per CPU core", flush=True)
+        with ProcessPoolExecutor() as ex:
+            runs = []
+            for i, r in enumerate(ex.map(run, range(7, 7 + N_SEEDS), [authors] * N_SEEDS)):
+                runs.append(r); print(f"   run {i + 1}/{N_SEEDS} done (seed {7 + i})", flush=True)
+        print(f"\nAverage over {N_SEEDS} seeds, with lowest-highest in brackets:")
+    w = 6 if N_SEEDS == 1 else 16
+    print("A. Attribution: which author wrote a sample from a work the method has never seen (chance 1 in " + str(len(authors)) + ")")
+    print(f"{'words':>6} {'book method':>{w + 6}} {'cosine':>{w + 6}} {'classifier':>{w + 6}}")
+    for n in SIZES:
+        print(f"{n:>6} " + " ".join(f"{cell([r['attribution'][n][k] for r in runs], True):>{w + 6}}"
+                                     for k in ("simple", "cosine", "classifier")))
+    print("\nB. Verification: are two samples (from different works) by the same author?")
+    print(f"{'words':>6} {'AUC simple':>{w + 6}} {'AUC cosine':>{w + 6}} {'AUC impostors':>{w + 6}} {'Cllr cosine':>{w + 6}} {'Cllr impostors':>{w + 6}}")
+    for n in (400, 700, 1500, 2500):
+        vals = [[r["verification"][n]["auc"][k] for r in runs] for k in ("simple", "cosine", "gi")]
+        vals += [[r["verification"][n][k] for r in runs] for k in ("cllr_cosine", "cllr_gi")]
+        print(f"{n:>6} " + " ".join(f"{cell(v, False):>{w + 6}}" for v in vals))
+    out = runs[0] if N_SEEDS == 1 else {"seeds": list(range(7, 7 + N_SEEDS)), "runs": runs}
+    name = "calibration_results" + ("_" + "-".join(SUB) if SUB else "") + ("" if N_SEEDS == 1 else f"_{N_SEEDS}seeds")
+    json.dump(out, open(os.path.join(os.path.dirname(os.path.abspath(__file__)), name + ".json"), "w"), indent=1)
