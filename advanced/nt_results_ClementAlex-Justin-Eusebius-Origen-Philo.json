@@ -1,0 +1,324 @@
+{
+ "400": {
+  "Paul core letters with each other": {
+   "kind": "Paul-Paul",
+   "median_log10_lr": 0.2732408469665969,
+   "share_same": 1.0,
+   "median_gi": 0.5708333333333333,
+   "draws": 30
+  },
+  "Paul core with Philippians / 1 Thessalonians": {
+   "kind": "Paul-Paul",
+   "median_log10_lr": 0.3375403109254594,
+   "share_same": 1.0,
+   "median_gi": 0.5708333333333333,
+   "draws": 30
+  },
+  "Acts 1-12 with Acts 13-28 (one author)": {
+   "kind": "control",
+   "median_log10_lr": 0.26945732354484175,
+   "share_same": 1.0,
+   "median_gi": 0.43333333333333335,
+   "draws": 30
+  },
+  "Luke with Acts (traditionally one author)": {
+   "kind": "control",
+   "median_log10_lr": 0.23285108087487089,
+   "share_same": 0.8666666666666667,
+   "median_gi": 0.2791666666666667,
+   "draws": 30
+  },
+  "Gospel of John with 1 John (often one author)": {
+   "kind": "control",
+   "median_log10_lr": 0.37883176245033534,
+   "share_same": 1.0,
+   "median_gi": 0.5125,
+   "draws": 30
+  },
+  "Paul core with Eph": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.22112375779205784,
+   "share_same": 0.9666666666666667,
+   "median_gi": 0.12916666666666665,
+   "draws": 30
+  },
+  "Paul core with Col": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.23088316215173374,
+   "share_same": 0.9666666666666667,
+   "median_gi": 0.22916666666666669,
+   "draws": 30
+  },
+  "Paul core with Pastorals": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.1553650833400254,
+   "share_same": 0.9,
+   "median_gi": 0.2583333333333333,
+   "draws": 30
+  },
+  "Paul core with Heb": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.08993175315232588,
+   "share_same": 0.8666666666666667,
+   "median_gi": 0.04583333333333334,
+   "draws": 30
+  },
+  "Paul core with 1Pe": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.22024697383099662,
+   "share_same": 1.0,
+   "median_gi": 0.3666666666666667,
+   "draws": 30
+  },
+  "Paul core with Jas": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.18813998334525,
+   "share_same": 0.9,
+   "median_gi": 0.1875,
+   "draws": 30
+  },
+  "Paul core with 1Clement": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.02413723042276895,
+   "share_same": 0.6,
+   "median_gi": 0.020833333333333336,
+   "draws": 30
+  },
+  "Paul core with Ignatius": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.19536499125022738,
+   "share_same": 0.9666666666666667,
+   "median_gi": 0.2,
+   "draws": 30
+  },
+  "Paul core with Barnabas": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.018564682281158547,
+   "share_same": 0.5333333333333333,
+   "median_gi": 0.008333333333333333,
+   "draws": 30
+  },
+  "Paul core with Tatian": {
+   "kind": "Paul-vs",
+   "median_log10_lr": -0.14317622565293767,
+   "share_same": 0.06666666666666667,
+   "median_gi": 0.0,
+   "draws": 30
+  },
+  "Paul core with Lk": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.006040003205702346,
+   "share_same": 0.5333333333333333,
+   "median_gi": 0.0,
+   "draws": 30
+  },
+  "Paul core with Ac": {
+   "kind": "Paul-vs",
+   "median_log10_lr": -0.05345184652466687,
+   "share_same": 0.3,
+   "median_gi": 0.0,
+   "draws": 30
+  },
+  "Paul core with Jn": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.15084343820704965,
+   "share_same": 0.7666666666666667,
+   "median_gi": 0.10416666666666666,
+   "draws": 30
+  },
+  "Paul core with Re": {
+   "kind": "Paul-vs",
+   "median_log10_lr": -0.045724388120485196,
+   "share_same": 0.3333333333333333,
+   "median_gi": 0.0,
+   "draws": 30
+  },
+  "Paul core with Mk": {
+   "kind": "Paul-vs",
+   "median_log10_lr": -0.02491145081882698,
+   "share_same": 0.43333333333333335,
+   "median_gi": 0.0,
+   "draws": 30
+  },
+  "Paul core with Mt": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.044868459439970344,
+   "share_same": 0.6666666666666666,
+   "median_gi": 0.008333333333333333,
+   "draws": 30
+  },
+  "Known Greek authors: same author, different works": {
+   "kind": "reference",
+   "median_log10_lr": 0.0525330201434842,
+   "share_same": 0.69,
+   "median_gi": 0.09583333333333333
+  },
+  "Known Greek authors: different authors": {
+   "kind": "reference",
+   "median_log10_lr": -0.07435499950651304,
+   "share_same": 0.265,
+   "median_gi": 0.0
+  }
+ },
+ "1500": {
+  "Paul core letters with each other": {
+   "kind": "Paul-Paul",
+   "median_log10_lr": 0.7531729925466579,
+   "share_same": 1.0,
+   "median_gi": 0.9541666666666666,
+   "draws": 30
+  },
+  "Paul core with Philippians / 1 Thessalonians": {
+   "kind": "Paul-Paul",
+   "median_log10_lr": 0.7935946123175327,
+   "share_same": 1.0,
+   "median_gi": 0.95,
+   "draws": 15
+  },
+  "Acts 1-12 with Acts 13-28 (one author)": {
+   "kind": "control",
+   "median_log10_lr": 0.7075891304122812,
+   "share_same": 1.0,
+   "median_gi": 0.9416666666666667,
+   "draws": 30
+  },
+  "Luke with Acts (traditionally one author)": {
+   "kind": "control",
+   "median_log10_lr": 0.6771249986351386,
+   "share_same": 0.9333333333333333,
+   "median_gi": 0.475,
+   "draws": 30
+  },
+  "Gospel of John with 1 John (often one author)": {
+   "kind": "control",
+   "median_log10_lr": 0.782310592844418,
+   "share_same": 1.0,
+   "median_gi": 0.7708333333333334,
+   "draws": 30
+  },
+  "Paul core with Eph": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.535146093764212,
+   "share_same": 1.0,
+   "median_gi": 0.375,
+   "draws": 30
+  },
+  "Paul core with Col": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.5103724401945376,
+   "share_same": 1.0,
+   "median_gi": 0.5041666666666667,
+   "draws": 30
+  },
+  "Paul core with Pastorals": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.3347492674493617,
+   "share_same": 1.0,
+   "median_gi": 0.16249999999999998,
+   "draws": 30
+  },
+  "Paul core with Heb": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.2119799941104375,
+   "share_same": 0.8333333333333334,
+   "median_gi": 0.13333333333333333,
+   "draws": 30
+  },
+  "Paul core with 1Pe": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.6049341021215323,
+   "share_same": 1.0,
+   "median_gi": 0.8083333333333333,
+   "draws": 30
+  },
+  "Paul core with Jas": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.5663307435760854,
+   "share_same": 1.0,
+   "median_gi": 0.6458333333333333,
+   "draws": 30
+  },
+  "Paul core with 1Clement": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.0377791313950509,
+   "share_same": 0.5666666666666667,
+   "median_gi": 0.0,
+   "draws": 30
+  },
+  "Paul core with Ignatius": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.3868210597879378,
+   "share_same": 1.0,
+   "median_gi": 0.3333333333333333,
+   "draws": 30
+  },
+  "Paul core with Barnabas": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.15459778007004554,
+   "share_same": 0.9666666666666667,
+   "median_gi": 0.008333333333333333,
+   "draws": 30
+  },
+  "Paul core with Tatian": {
+   "kind": "Paul-vs",
+   "median_log10_lr": -0.26200401127518136,
+   "share_same": 0.06666666666666667,
+   "median_gi": 0.0,
+   "draws": 30
+  },
+  "Paul core with Lk": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.10781580438049113,
+   "share_same": 0.7,
+   "median_gi": 0.0,
+   "draws": 30
+  },
+  "Paul core with Ac": {
+   "kind": "Paul-vs",
+   "median_log10_lr": -0.06123699824381298,
+   "share_same": 0.3333333333333333,
+   "median_gi": 0.0,
+   "draws": 30
+  },
+  "Paul core with Jn": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.39818940286535187,
+   "share_same": 1.0,
+   "median_gi": 0.09166666666666666,
+   "draws": 30
+  },
+  "Paul core with Re": {
+   "kind": "Paul-vs",
+   "median_log10_lr": -0.14280554354562405,
+   "share_same": 0.1,
+   "median_gi": 0.0,
+   "draws": 30
+  },
+  "Paul core with Mk": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.11095384485311688,
+   "share_same": 0.7666666666666667,
+   "median_gi": 0.0,
+   "draws": 30
+  },
+  "Paul core with Mt": {
+   "kind": "Paul-vs",
+   "median_log10_lr": 0.1604378831925008,
+   "share_same": 0.7,
+   "median_gi": 0.0,
+   "draws": 30
+  },
+  "Known Greek authors: same author, different works": {
+   "kind": "reference",
+   "median_log10_lr": 0.1281993742058527,
+   "share_same": 0.71,
+   "median_gi": 0.20833333333333334
+  },
+  "Known Greek authors: different authors": {
+   "kind": "reference",
+   "median_log10_lr": -0.1610504922692772,
+   "share_same": 0.22,
+   "median_gi": 0.0
+  }
+ }
+}

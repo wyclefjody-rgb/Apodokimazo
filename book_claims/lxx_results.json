@@ -1,0 +1,134 @@
+{
+ "Revelation 1": {
+  "words": 469,
+  "closest": [
+   "Revelation 4-22",
+   "Acts",
+   "LXX 1Macc"
+  ],
+  "nearest_LXX": 3.19,
+  "nearest_NT": 2.95,
+  "closer_to": "New Testament"
+ },
+ "Revelation 2-3": {
+  "words": 1146,
+  "closest": [
+   "Romans",
+   "Revelation 4-22",
+   "Hebrews"
+  ],
+  "nearest_LXX": 2.91,
+  "nearest_NT": 2.74,
+  "closer_to": "New Testament"
+ },
+ "Revelation 4-22": {
+  "words": 8218,
+  "closest": [
+   "LXX DanTh",
+   "LXX DanOG",
+   "Acts"
+  ],
+  "nearest_LXX": 1.99,
+  "nearest_NT": 2.12,
+  "closer_to": "Septuagint"
+ },
+ "Luke 1-2": {
+  "words": 2035,
+  "closest": [
+   "Acts",
+   "LXX Gen",
+   "Luke 3-24"
+  ],
+  "nearest_LXX": 1.95,
+  "nearest_NT": 1.79,
+  "closer_to": "New Testament"
+ },
+ "Luke 3-24": {
+  "words": 17411,
+  "closest": [
+   "Matthew",
+   "Mark",
+   "Acts"
+  ],
+  "nearest_LXX": 1.63,
+  "nearest_NT": 0.82,
+  "closer_to": "New Testament"
+ },
+ "Acts": {
+  "words": 18412,
+  "closest": [
+   "Luke 3-24",
+   "Matthew",
+   "Mark"
+  ],
+  "nearest_LXX": 1.61,
+  "nearest_NT": 1.15,
+  "closer_to": "New Testament"
+ },
+ "Mark": {
+  "words": 11286,
+  "closest": [
+   "Luke 3-24",
+   "Matthew",
+   "Acts"
+  ],
+  "nearest_LXX": 1.69,
+  "nearest_NT": 0.99,
+  "closer_to": "New Testament"
+ },
+ "Matthew": {
+  "words": 18329,
+  "closest": [
+   "Luke 3-24",
+   "Mark",
+   "Acts"
+  ],
+  "nearest_LXX": 1.68,
+  "nearest_NT": 0.82,
+  "closer_to": "New Testament"
+ },
+ "John": {
+  "words": 15438,
+  "closest": [
+   "Mark",
+   "Luke 3-24",
+   "Matthew"
+  ],
+  "nearest_LXX": 2.2,
+  "nearest_NT": 1.37,
+  "closer_to": "New Testament"
+ },
+ "Romans": {
+  "words": 7055,
+  "closest": [
+   "1 Corinthians",
+   "Hebrews",
+   "Acts"
+  ],
+  "nearest_LXX": 2.06,
+  "nearest_NT": 1.34,
+  "closer_to": "New Testament"
+ },
+ "1 Corinthians": {
+  "words": 6812,
+  "closest": [
+   "Romans",
+   "Hebrews",
+   "Acts"
+  ],
+  "nearest_LXX": 2.43,
+  "nearest_NT": 1.34,
+  "closer_to": "New Testament"
+ },
+ "Hebrews": {
+  "words": 4935,
+  "closest": [
+   "Acts",
+   "Romans",
+   "Mark"
+  ],
+  "nearest_LXX": 1.67,
+  "nearest_NT": 1.4,
+  "closer_to": "New Testament"
+ }
+}

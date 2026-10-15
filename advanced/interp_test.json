@@ -1,0 +1,116 @@
+{
+ "A as printed": {
+  "removed": [],
+  "words_removed": 0,
+  "book_words": {
+   "Ro": 7055,
+   "1Co": 6812,
+   "2Co": 4473,
+   "Ga": 2226,
+   "Php": 1626,
+   "1Th": 1473
+  },
+  "scores": {
+   "Ro-1Co": 0.9333333333333333,
+   "Ro-2Co": 0.9291666666666667,
+   "Ro-Ga": 1.0,
+   "Ro-Php": 0.6791666666666667,
+   "1Co-2Co": 0.7916666666666667,
+   "1Co-Ga": 0.7583333333333333,
+   "1Co-Php": 0.6916666666666667,
+   "2Co-Ga": 0.7333333333333334,
+   "2Co-Php": 0.9791666666666666,
+   "Ga-Php": 0.9
+  }
+ },
+ "B manuscript-evidence removed": {
+  "removed": [
+   {
+    "passage": "Ro 16:25-16:27",
+    "words": 0,
+    "reason": "doxology moves around / missing in manuscripts"
+   },
+   {
+    "passage": "1Co 14:34-14:35",
+    "words": 36,
+    "reason": "placed after v.40 in Western manuscripts"
+   }
+  ],
+  "words_removed": 36,
+  "book_words": {
+   "Ro": 7055,
+   "1Co": 6776,
+   "2Co": 4473,
+   "Ga": 2226,
+   "Php": 1626,
+   "1Th": 1473
+  },
+  "scores": {
+   "Ro-1Co": 0.9375,
+   "Ro-2Co": 0.9291666666666667,
+   "Ro-Ga": 1.0,
+   "Ro-Php": 0.6791666666666667,
+   "1Co-2Co": 0.8041666666666667,
+   "1Co-Ga": 0.7625,
+   "1Co-Php": 0.6916666666666667,
+   "2Co-Ga": 0.7333333333333334,
+   "2Co-Php": 0.9791666666666666,
+   "Ga-Php": 0.9
+  }
+ },
+ "C all proposed removed": {
+  "removed": [
+   {
+    "passage": "Ro 16:25-16:27",
+    "words": 0,
+    "reason": "doxology moves around / missing in manuscripts"
+   },
+   {
+    "passage": "1Co 14:34-14:35",
+    "words": 36,
+    "reason": "placed after v.40 in Western manuscripts"
+   },
+   {
+    "passage": "1Th 2:13-2:16",
+    "words": 109,
+    "reason": "proposed on content grounds, no manuscript support"
+   },
+   {
+    "passage": "2Co 6:14-7:1",
+    "words": 111,
+    "reason": "proposed on vocabulary grounds, no manuscript support"
+   },
+   {
+    "passage": "1Co 11:3-11:16",
+    "words": 212,
+    "reason": "proposed by a minority, no manuscript support"
+   },
+   {
+    "passage": "Ro 13:1-13:7",
+    "words": 144,
+    "reason": "proposed by a minority, no manuscript support"
+   }
+  ],
+  "words_removed": 612,
+  "book_words": {
+   "Ro": 6911,
+   "1Co": 6564,
+   "2Co": 4362,
+   "Ga": 2226,
+   "Php": 1626,
+   "1Th": 1364
+  },
+  "scores": {
+   "Ro-1Co": 0.8958333333333334,
+   "Ro-2Co": 0.925,
+   "Ro-Ga": 0.9958333333333333,
+   "Ro-Php": 0.6958333333333333,
+   "1Co-2Co": 0.8374999999999999,
+   "1Co-Ga": 0.7749999999999999,
+   "1Co-Php": 0.7250000000000001,
+   "2Co-Ga": 0.7291666666666666,
+   "2Co-Php": 0.975,
+   "Ga-Php": 0.9
+  }
+ }
+}

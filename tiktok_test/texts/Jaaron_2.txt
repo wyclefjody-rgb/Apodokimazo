@@ -1,0 +1,120 @@
+Hey everyone,
+this is Jaron with Christ before Jesus.
+I'm doing something even more unusual than the last video. Uh,
+I got tagged in a comment on a TikTok video.
+Someone had said that
+we can't know if a particular text was written by Paul or not,
+just purely based off of the style of writing
+because we don't have enough data.
+This was not an attack on Christ before Jesus,
+believe it or not.
+This was an attack on the current scholarly consensus
+of Paul's letters. They were trying to say that
+we can't say that only seven of Paul's letters were authentic
+purely based on the style
+because we don't have enough of a sample size.
+And maybe he was saying something in some other direction.
+I don't know. But I just wanted to show him that we can definitely tell
+Authors apart using even smaller sample sizes.
+In fact, I responded to the comment that tagged me in the TikTok video
+and I said I would love to actually run the original posters
+um videos
+and just caption everything he says and show him that very clearly
+it comes back as him
+and I'm actually gonna run it against other tiktokers
+other friends of mine
+and you'll see exactly how stylometry works
+and how we can tell an author is different based on style
+even with smaller sample sizes
+and believe it or not,
+op actually responded to my comment and doubled down on his crazy take
+that stillometry can't work because the sample size is way too small
+and he's talking about the books of Paul
+the Pauline epistles which have a lot more words
+even at the chapter level than what I'm about to show you guys
+so here let's go ahead and get into it.
+What I have is this folder
+it is called yikes uh
+and it includes uh there's some runs here already but uh
+it actually has uh 8 different files so we have uh another
+so this is another video of op another two
+so another video yet again another video from op
+uh we have born again atheist
+where born again atheist
+actually took down some of the words that she had said uh
+another tiktoker, great tiktoker by the way.
+Um, this is the
+this is the video where he doubles Down against my comment
+this is his first dumb video uh
+this is actually 2 different
+two different files from my friend gray eyes uh
+they're on TikTok great uh TikTok channel and and check it out
+he actually has a video uh
+talking about how to install Stylo and how to run it uh
+that's the software that I'm actually gonna use here in a bit
+and then this is Kendra deconstructed uh
+which is another friend of mine
+another great tik toker who actually uh
+has sent me uh
+some messages and I wanted to run some of the messages there
+uh the point is I am going to run all these at the same time
+and I'm going to see exactly what happens
+alright so I'm opening up stylus here
+I gotta move the thing over here to the screen okay
+so what I'm gonna do is I'm gonna run it in English
+obviously over here
+we're actually gonna set the most frequently used words to fifty
+uh we're gonna keep the Ingram size the same uh
+as far as statistics go we're gonna use Eiders Delta
+because that's the one that we use predominantly uh
+for the Greek Latin text um
+it works really well with languages that have a lot of inflection
+and I'm just going to show that Eiders Delta
+the one that we actually have in our book and everything like that
+is the one that uh
+can work as far as the Output goes everything
+we're gonna keep this the same sampling
+we're not gonna change anything and I'm gonna go ahead and run it
+it's gonna ask me for the source and here we go
+we're gonna go ahead and do that okay
+and there we have it so another two
+another first dumb doubles down and there's Grey Eyes together
+there's Kindred and uh
+born again atheist because there's only one file from them
+they're gonna be over on like this
+but Grey Eyes
+it very clearly knows that that's two different people or sorry
+uh two different things from one person and then uh
+here is this entire
+this entire branch is the dumb op so I need you guys to realize here
+let me actually show you how small these file sizes are
+so these are the actual text files
+I'm gonna show you at least just the opes files
+um I
+I don't wanna show the other stuff
+simply because of the fact that it's
+some of it is like private messages
+and so I don't want them to have any kind of issue
+if they message me or something like that
+I can show you what it is but um
+I I I didn't ask them for their permission
+it was just something that they sent
+so I'm not gonna
+I'm not gonna say I'm not gonna show anything that they wrote me uh
+but that being said uh here is the smallest of the text
+Files from op
+this is the one where he doubled down and he went against me um
+so it is just 750 characters I mean this is this is small
+this is just 130 words
+that's it even using something as small as 130 words
+we can get the results that we very clearly see here
+it does not take that much data per file
+in order to get an accurate run
+this is and this is true 100% accurate
+100% accurate
+see the distance here between grey eyes and everything else
+these are off on their own branches because it's just one
+this is very clearly from the same person
+which is connected right here on this branch.
+This is 100% accuracy at the top 50 most frequently used words
+with as little as about 130 words it runs very efficiently.
