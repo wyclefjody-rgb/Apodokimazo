@@ -87,4 +87,4 @@ Their Chapter 7 English figure uses 22 novels from Stylo's public collection plu
 
 Expected: whole novels 95% correct author, 4,000 words 60%, 700 words 27%, 400 words 23% (chance is about 7%).
 
-**Harry Potter:** it's still under copyright, so it isn't included. If you own a copy, save it as plain text named `Rowling_HarryPotter2_1998.txt` in the `english_demo` folder, and both scripts will include it automatically. It will get cut into pieces the same way as the other novels.
+**Harry Potter:** it's still under copyright, so it isn't included. But, it will get cut into pieces the same way as the other novels.
