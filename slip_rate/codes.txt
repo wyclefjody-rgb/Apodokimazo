@@ -1,0 +1,128 @@
+# Slip-rate study, step 2: every candidate passage of CANDIDATES.md, read and coded (PREDICTIONS.md section 3,
+# AMENDMENTS.md 1-2). Coded by Claude (an AI model), 2026-10-24, for review.
+# text | places | item | code | strength | reason
+# code: fits (fits the setting, odd later) / slip (fits only a later time, or gets the setting wrong) / either /
+# not (not datable: the search term carries no date here). Candidates about the same fact form one item.
+# Setting = the time the text claims to be written or to describe.
+
+# ---- core four (setting: the 50s) ----
+core four | Ga 5:2; Ga 5:3; Ga 5:11; Ga 6:12; Ga 6:13; Ga 2:12 | circumcision pressed by fellow believers | fits | medium | the pressure is to be circumcised, from inside the movement, to avoid persecution by fellow Jews (vanishing_point item 10, not yet reviewed); after Bar Kokhba the pressure would run the other way
+core four | Ga 1:17; Ga 1:18; Ga 1:19; Ga 2:1; Ga 2:7; Ga 2:8; Ga 2:9; Ga 2:11; Ga 2:14; 1Co 1:12; 1Co 3:22; 1Co 9:5 | Cephas and James as living leaders | fits | medium | the pillars are present actors whose views press on Paul's churches; James died in 62 (Josephus) (vanishing_point item 4, not yet reviewed)
+core four | Ro 16:1 | church order without bishop or elders | fits | medium | Phoebe "deacon of the church at Cenchreae"; no single bishop or elders anywhere in the core four (vanishing_point item 6, not yet reviewed)
+core four | (whole text) | no "Christian" | fits | weak | AMENDMENTS.md 1 (vanishing_point item 7)
+core four | Ro 15:25; Ro 15:26; Ro 15:31; 1Co 16:3 | the collection for Jerusalem | either | - | reviewer's code (vanishing_point AMENDMENTS.md 3)
+core four | 2Co 11:32 | Aretas' ethnarch at Damascus | either | - | reviewer's code (vanishing_point AMENDMENTS.md 3)
+core four | 1Co 15:23; 1Co 15:52 | the end expected within the writer's lifetime ("we shall be changed") | either | - | reviewer's code (vanishing_point AMENDMENTS.md 3)
+core four | Ga 4:25; Ga 4:26 | "the present Jerusalem is in slavery" | either | - | allegory fits any date (vanishing_point item 11)
+core four | 1Co 9:13 | those who serve in the temple eat from it | either | - | present-tense Temple language, disputed (vanishing_point item 12)
+core four | Ro 15:19 | from Jerusalem round to Illyricum | either | - | mission geography; nothing changed
+core four | 1Co 5:9; 2Co 3:1; 2Co 3:2; 2Co 3:3; 2Co 7:8; 2Co 10:9; 2Co 10:10; 2Co 10:11; 1Co 16:3; Ro 16:22 | letters as living correspondence | either | - | earlier letters, letters of recommendation, his scribe: letters between living people, never cited as scripture
+core four | Ro 16:11 | Herodion; "those of the household of Narcissus" | either | - | Lightfoot proposed Claudius' freedman Narcissus (died 54); unproven
+core four | Ro 13:4 | the authorities as God's servants | either | - | no state persecution in view; fits before 64 and many later times
+core four | Ro 8:35; 2Co 12:10; Ga 1:13 | persecution | either | - | persecution in general, or Paul's own past persecution of the church; nothing official or imperial
+core four | Ga 1:13; Ga 1:14 | Paul's former life "in Judaism" | either | - | autobiographical; no date
+core four | 1Co 16:2 | collection "on the first day of the week" | either | - | Sunday gathering fits both
+core four | Ro 1:2; Ro 1:17; Ro 2:24; Ro 3:4; Ro 3:10; Ro 4:3; Ro 4:17; Ro 8:36; Ro 9:13; Ro 9:17; Ro 9:33; Ro 10:11; Ro 10:15; Ro 11:2; Ro 11:8; Ro 11:26; Ro 12:19; Ro 14:11; Ro 15:3; Ro 15:4; Ro 15:9; Ro 15:21; 1Co 1:19; 1Co 1:31; 1Co 2:9; 1Co 3:19; 1Co 4:6; 1Co 9:9; 1Co 10:7; 1Co 14:21; 1Co 15:3; 1Co 15:4; 1Co 15:45; 2Co 8:15; 2Co 9:9; Ga 3:8; Ga 3:10; Ga 3:13; Ga 3:22; Ga 4:22; Ga 4:27; Ga 4:30 | - | not | - | quotations of Israel's scripture ("it is written", "the scripture says")
+core four | Ro 2:25; Ro 2:26; Ro 2:27; Ro 2:28; Ro 2:29; Ro 3:1; Ro 3:30; Ro 4:9; Ro 4:10; Ro 4:11; Ro 4:12; Ro 15:8; 1Co 7:18; 1Co 7:19; Ga 5:6; Ga 6:15 | - | not | - | circumcision as a theological topic, not an event or practice of a time
+core four | Ro 1:9; 1Co 1:6; 1Co 2:1; 2Co 1:12; 2Co 13:1 | - | not | - | μαρτύριον / μάρτυς as "testimony, witness"
+core four | Ro 5:17; Ro 5:21; Ro 14:17; 1Co 4:20; 1Co 6:9; 1Co 6:10; 1Co 15:24; 1Co 15:50; Ga 5:21 | - | not | - | "reign", "kingdom of God"
+core four | Ro 13:4; 1Co 3:5; 2Co 3:6; 2Co 6:4; 2Co 11:15; 2Co 11:23; Ga 2:17 | - | not | - | διάκονος as "servant", not an office
+core four | 1Co 3:16; 1Co 3:17; 1Co 6:19; 2Co 6:16 | - | not | - | the believers or the body as God's temple (metaphor)
+core four | 1Co 4:9; 1Co 15:8; 1Co 15:26; 1Co 16:17; 2Co 7:6; 2Co 7:7 | - | not | - | ἔσχατος "last", παρουσία "arrival" of a person
+core four | 1Co 7:8; 1Co 10:4; 1Co 11:19; Ga 5:20; 1Co 15:5; 1Co 15:7 | - | not | - | widows (not an order); "rock"; αἱρέσεις "factions"; the list of appearances (the persons are covered by the living-leaders item)
+
+# ---- Pastorals (setting: Paul's last years, 60s) ----
+Pastorals | 1Ti 3:1; 1Ti 3:2; 1Ti 3:8; 1Ti 3:12; 1Ti 4:14; 1Ti 5:3; 1Ti 5:4; 1Ti 5:5; 1Ti 5:9; 1Ti 5:11; 1Ti 5:16; 1Ti 5:17; 1Ti 5:19; Tit 1:5; Tit 1:7 | settled church order | slip | medium | "the overseer" in the singular with deacons, a council of elders that lays on hands, paid elders appointed "in every town", widows enrolled at sixty: a later stage than the gifts-led churches of the core four (as coded in vanishing_point)
+Pastorals | 1Ti 5:18 | a gospel saying cited as "scripture" | slip | medium | "the worker deserves his wages" matches Luke 10:7 word for word, under "the scripture says"
+Pastorals | (whole text) | no "Christian" | fits | weak | AMENDMENTS.md 1
+Pastorals | 1Ti 6:20 | "antitheses of falsely called knowledge" | either | - | some read Marcion's Antitheses (after c. 140); most read a general phrase
+Pastorals | Tit 3:10 | the "factious" (αἱρετικός) person | either | - | could be the later technical "heretic", or simply "divisive"
+Pastorals | 1Ti 6:13 | Christ's testimony before Pontius Pilate | either | - | Pilate's date is known; fits both
+Pastorals | 1Ti 6:14; 2Ti 1:10; 2Ti 3:1; 2Ti 4:1; 2Ti 4:8; Tit 2:13 | the "appearing", with no date given | either | - | no claim the end will come in the writer's lifetime; fits both
+Pastorals | 2Ti 3:11 | persecutions at Antioch, Iconium and Lystra | either | - | Acts' cities in Acts' order; fits both
+Pastorals | 2Ti 4:5 | "the work of an evangelist" | either | - | evangelists also in Acts 21:8 and Ephesians 4:11
+Pastorals | 2Ti 4:21 | Linus, Pudens, Claudia greet | either | - | Linus later listed as Rome's first bishop (Irenaeus); here a name only
+Pastorals | Tit 1:10 | "those of the circumcision" | either | - | Jewish believers as opponents fits both
+Pastorals | 1Ti 1:17; 1Ti 2:6; 1Ti 4:6; 1Ti 5:1; 1Ti 5:2; 1Ti 6:12; 1Ti 6:15; 2Ti 1:8; 2Ti 2:2; 2Ti 3:16; 2Ti 4:13; 2Ti 4:18; Tit 1:12 | - | not | - | God as king; testimony, witnesses; elderly men and women; scripture in general; books and parchments; Cretans as "beasts" (a poet's line)
+
+# ---- spurious Ignatius (setting: Ignatius' journey to Rome, c. 110) ----
+spurious Ignatius | Antiochenes 12.2; Philippians 15.2 | minor orders: subdeacons, readers, singers, doorkeepers, exorcists, confessors | slip | strong | first listed together in Rome in 251 (Cornelius, in Eusebius, Church History 6.43.11); unknown c. 110
+spurious Ignatius | Hero 3.2 | bishops as priests who baptize, offer sacrifice and ordain | slip | medium | sacerdotal titles for bishops appear from the late 2nd and 3rd centuries (Tertullian, Hippolytus)
+spurious Ignatius | Philippians 13.3 | the forty-day fast of Lent, Holy Week, fasting rules for Wednesday, Friday, Saturday and Sunday | slip | strong | the forty-day fast (τεσσαρακοστή) is first attested in the 4th century (Council of Nicaea, canon 5); Wednesday and Friday fasts (Didache 8) fit either
+spurious Ignatius | Philippians 14.2 | Christians must not keep Passover with the Jews | slip | medium | the Easter-date controversy belongs to the late 2nd century (Victor, c. 190) and to Nicaea (325)
+spurious Ignatius | To Mary 4.1 | "the blessed papa Anencletus, whom Clement has now succeeded" | slip | medium | Clement's time in Rome was c. 90-100 by the traditional lists; by c. 110 his successors had followed; "papa" for Rome's bishop is a later usage
+spurious Ignatius | Antiochenes 4.1; Antiochenes 4.2 | "the evangelists" wrote "In the beginning was the Word" and "The book of the genealogy" | slip | medium | gospels quoted as books by named "evangelists" belongs to the later 2nd century; the genuine letters of c. 110 never do this
+spurious Ignatius | Antiochenes 1.2; Antiochenes 14.1 | warnings against denying Christ "on pretext of the one God"; "the only unbegotten" Father and the Son "begotten before the ages" | slip | weak | Monarchian disputes (late 2nd-3rd century) and the vocabulary of the 4th-century Trinitarian debate
+spurious Ignatius | Tarsians 8.2; Philippians 13.1; Philippians 14.1; Antiochenes 8.1; Antiochenes 8.2; Antiochenes 12.1; Antiochenes 13.1; Antiochenes 13.2; Hero 0.1; Hero 8.1; Hero 8.2; Mary to Ignatius 0.1; Mary to Ignatius 1.1; To Mary 5.2; Tarsians 10.2; Hero 9.3 | one bishop with elders and deacons; named bishops | either | - | the three-part order is already in the genuine letters of c. 110; the named bishops (Polycarp, Onesimus, Damas, Polybius) are taken from them
+spurious Ignatius | Philippians 15.1; Antiochenes 8.2; Antiochenes 11.1; Antiochenes 12.3; Tarsians 9.1; Hero 3.1 | orders of widows and virgins | either | - | widows and "virgins called widows" are in the genuine letters (Smyrnaeans 13.1)
+spurious Ignatius | Tarsians 3.3; Hero 3.2 | Peter crucified, Paul and James beheaded, John exiled to Patmos, Stephen stoned | either | - | all past events for a writer of c. 110
+spurious Ignatius | Antiochenes 7.1 | Evodius, first shepherd of Antioch, appointed by the apostles | either | - | the same tradition in Eusebius (Church History 3.22)
+spurious Ignatius | Philippians 4.3 | those who call his death "appearance" (δόκησις) | either | - | the docetic dispute is in the genuine letters
+spurious Ignatius | Antiochenes 11.2 | be subject to Caesar where it is safe | either | - | fits both
+spurious Ignatius | Antiochenes 0.1 | Antioch first took the name of Christ | either | - | Acts 11:26
+spurious Ignatius | Tarsians 2.2 | Paul preached from Jerusalem round to Illyricum | either | - | from Romans 15:19
+spurious Ignatius | Tarsians 3.3; Philippians 13.3 | the Jews as "Lord-killers", "Christ-killers" | either | - | polemic found from the 2nd century on (Melito)
+spurious Ignatius | Tarsians 1.1; Tarsians 1.2 | fighting beasts from Syria to Rome | either | - | Ignatius' own journey (genuine Romans 5.1)
+spurious Ignatius | Philippians 8.2; Philippians 8.4 | the infancy stories: magi, star, census, manger, Herod | either | - | Matthew and Luke known by c. 110
+spurious Ignatius | Mary to Ignatius 1.2; Mary to Ignatius 3.1; Mary to Ignatius 4.2; Mary to Ignatius 5.1; To Mary 0.1; To Mary 3.1; Tarsians 0.1; Tarsians 7.2; Philippians 0.1; Philippians 4.1; Philippians 10.2; Antiochenes 14.1; Hero 6.1; Hero 7.2; Hero 8.3 | - | not | - | greetings; Israel's past (Moses, David, Daniel); quotations; metaphors (temple, kingdom)
+
+# ---- Clementine letters to James (setting: Peter's last years and just after his death, 60s) ----
+Clementine letters to James | Clement to James 1; Clement to James 19; Clement to James 20 | Clement writes to James after Peter's death | slip | strong | James was killed in 62 (Josephus, Antiquities 20.200); Peter died c. 64-67 by tradition, so James could not receive news of it
+Clementine letters to James | Clement to James 2; Clement to James 19 | Peter ordains Clement bishop of Rome and hands him his "chair" | slip | medium | a single bishop of Rome in the 60s; Irenaeus' list (c. 180) puts Linus and Anencletus before Clement
+Clementine letters to James | Clement to James 5; Clement to James 12; Clement to James 13; Clement to James 14; Clement to James 15; Clement to James 16; Clement to James 17 | bishop, elders, deacons and catechists, with "laymen" | slip | medium | a settled order with catechists as an office and the term "layman" (first in 1 Clement, c. 95) in the 60s
+Clementine letters to James | Contestatio 1; Contestatio 2 | candidates tested for six years, then sworn at "living water" | slip | medium | a long formal probation like the catechumenate of the 3rd century (Apostolic Tradition: three years)
+Clementine letters to James | Contestatio 1; Contestatio 5 | James as "bishop" with his elders | slip | weak | James led the Jerusalem church, but the title bishop for him is later (Hegesippus, 2nd century)
+Clementine letters to James | (whole text) | no "Christian" | fits | weak | AMENDMENTS.md 1
+Clementine letters to James | Peter to James 1; Peter to James 2; Peter to James 3; Contestatio 2; Contestatio 3; Contestatio 4; Contestatio 5 | Peter's books of preaching, passed on only to the tested | either | - | not checkable
+Clementine letters to James | Peter to James 2 | "the enemy man" among the gentiles who undoes the law | either | - | anti-Pauline polemic fits Galatians 2 and later Jewish-Christian groups alike
+Clementine letters to James | Clement to James 1 | Peter died violently at Rome | either | - | a past event for the setting
+Clementine letters to James | Clement to James 1 | Peter first of the apostles, the church's foundation, sent to the West | either | - | from Matthew 16; fits both
+Clementine letters to James | Clement to James 10 | disputes settled by the elders, not the courts | either | - | as in 1 Corinthians 6
+Clementine letters to James | Clement to James 14 | persecutions and judges | either | - | general
+Clementine letters to James | Clement to James 10 | the judgment at the end of life | either | - | no date
+Clementine letters to James | Clement to James 20 | an epitome of Peter's preaching "in the cities" | either | - | not checkable
+Clementine letters to James | Clement to James 4; Clement to James 7; Clement to James 8; Clement to James 11 | - | not | - | the good king; marriage advice; widows and orphans cared for; the kingdom
+
+# ---- 2 Peter (setting: Peter shortly before his death, 60s) ----
+2 Peter | 2Pe 3:3; 2Pe 3:4 | "since the fathers fell asleep" | slip | strong | the first generation has died (as coded in vanishing_point)
+2 Peter | 2Pe 3:16 | Paul's letters as a collection read with "the other scriptures" | slip | strong | as coded in vanishing_point
+2 Peter | (whole text) | no "Christian" | fits | weak | AMENDMENTS.md 1
+2 Peter | 2Pe 2:1 | false teachers will bring in "heresies" | either | - | predicted; general
+2 Peter | 2Pe 1:16 | eyewitnesses of his majesty | either | - | the transfiguration; fits both
+2 Peter | 2Pe 3:1 | "the second letter I write to you" | either | - | refers to 1 Peter
+2 Peter | 2Pe 3:12 | hastening the day | either | - | expectation without a date
+2 Peter | 2Pe 1:1; 2Pe 1:11; 2Pe 1:20; 2Pe 2:20 | - | not | - | name; kingdom; prophecy of scripture; "the last state"
+
+# ---- Acts of John (setting: John in Ephesus and Rome under Domitian, 90s) ----
+Acts of John | 1 | King Agrippa stoned by the Jews for counselling peace | slip | medium | Agrippa II was not stoned; he outlived the war by decades (Josephus; died c. 93-100)
+Acts of John | 2 | Domitian succeeds Vespasian directly | slip | medium | Titus reigned between them (79-81)
+Acts of John | 3; 4; 12 | a decree of the senate to kill those who confess they are Christians | either | - | persecution under Domitian is reported by later Christian writers; a senate decree is not otherwise attested; not checkable either way
+Acts of John | 5; 7; 8; 9; 10; 11; 13; 14 | John sent to Patmos, sees the Revelation; Nerva recalls the exiles and makes Trajan his successor | either | - | Nerva did recall exiles (Cassius Dio 68.1) and adopted Trajan; fits
+Acts of John | 31 | the proconsul at Ephesus | either | - | Asia was governed by a proconsul
+Acts of John | 38; 42; 46 | the temple of Artemis and its festival | either | - | the temple stood until the 260s; its collapse at John's prayer is legend and not counted
+Acts of John | 88; 89; 90; 91; 97 | John's memories of Jesus who changes form and only seems to suffer | either | - | docetic views are already attacked c. 90-110 (1 John 4:2; Ignatius)
+Acts of John | 106 | the Lord's day (κυριακή) | either | - | as in Revelation 1:10
+Acts of John | 4 | "Christians" | either | - | fits the 90s
+Acts of John | 26; 30; 35; 36; 37; 39; 45; 71; 95; 104; 107; 108; 113 | - | not | - | a crowd (συναγωγή); old women; moral lists; ἐπιφανείς "appearing"; names of the apostles in John's own story
+
+# ---- Acts of Thomas (setting: Thomas in India, c. 40s-50s) ----
+Acts of Thomas | 2; 16; 17; 26 | King Gundaphorus of India | fits | strong | Gondophares, Indo-Parthian king c. 19-46, known from his coins and the Takht-i-Bahi inscription: a correct antiquarian detail
+Acts of Thomas | 1 | the apostles in Jerusalem divide the world by lot | either | - | tradition; not checkable
+Acts of Thomas | 22; 23 | "the Christian" | either | - | the name existed by the 40s (Acts 11:26)
+Acts of Thomas | 24; 25; 49; 65; 66; 160; 167; 169 | deacons serve the apostle; he makes Siphor an elder and Vizan a deacon | either | - | apostles appointing elders and deacons as in Acts 6 and 14:23
+Acts of Thomas | 12; 19; 59 | care of widows; renouncing marriage | either | - | Acts 6 and 1 Corinthians 7
+Acts of Thomas | 28; 39; 73; 160 | the coming (παρουσία) awaited | either | - | no date
+Acts of Thomas | 170 | the apostle's bones taken secretly to the West "long after" | either | - | the narrative says it happened later
+Acts of Thomas | 86 | Jesus told Peter to put back his sword | either | - | gospel knowledge; fits both
+Acts of Thomas | 4; 5; 6; 9; 11; 13; 18; 20; 21; 27; 32; 33; 36; 41; 55; 62; 79; 80; 82; 87; 89; 90; 91; 92; 93; 94; 95; 97; 99; 100; 101; 102; 103; 104; 105; 106; 108; 109; 110; 111; 112; 113; 115; 125; 126; 127; 128; 134; 136; 137; 138; 139; 140; 141; 142; 144; 151; 152; 153; 155; 162; 164; 168 | - | not | - | kings and courts in the story (Gundaphorus is coded above; King Misdaeus is not known outside the Acts, so cannot be checked); the Hymn of the Pearl's kings; temple metaphors; "rock"; antidotes
+
+# ---- Acts of Barnabas (setting: Barnabas and Mark in Cyprus, c. 50s-60s) ----
+Acts of Barnabas | 15; 22 | Barnabas carries a written gospel received from Matthew | slip | strong | a book of Matthew in the 50s, decades before any gospel was written
+Acts of Barnabas | 17; 20 | Paul and Barnabas ordain bishops for Cyprus (Heracleides) | slip | medium | bishops of a whole region in the 50s; the text reflects the 5th-century claims of the Cypriot church
+Acts of Barnabas | 1 | "Christians" | either | - | fits
+Acts of Barnabas | 6; 7; 22; 24 | synagogues and sabbaths | either | - | fits
+Acts of Barnabas | 7; 10 | going up to Jerusalem for the feast, to worship at the holy place | either | - | the Temple stood until 70
+Acts of Barnabas | 19; 20 | temples of Apollo and their priests | either | - | fits
+Acts of Barnabas | 23 | the governor at Salamis; Jebusaeus, "a kinsman of Nero" | either | - | not checkable
+Acts of Barnabas | 1 | the coming of the Saviour | either | - | no date
+Acts of Barnabas | 5 | - | not | - | "serving" (διακονῶν)

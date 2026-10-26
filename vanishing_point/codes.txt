@@ -1,0 +1,248 @@
+# Hand codes for markers.py (text | place | marker | code | reason). Coded by Claude (AI model), 2026-10-23;
+# to be confirmed by a person. Every candidate the code finds is listed; "yes" means the marker applies.
+Mt | 15:2 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Mt | 16:21 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Mt | 21:23 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Mt | 26:3 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Mt | 26:47 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Mt | 26:57 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Mt | 27:1 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Mt | 27:3 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Mt | 27:12 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Mt | 27:20 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Mt | 27:41 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Mt | 28:12 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Mk | 1:1 | A4 | no | "the gospel" as message, not a cited book
+Mk | 1:15 | A4 | no | "the gospel" as message, not a cited book
+Mk | 7:3 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Mk | 7:5 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Mk | 8:31 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Mk | 11:27 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Mk | 14:43 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Mk | 14:53 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Mk | 15:1 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Lk | 7:3 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Lk | 9:22 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Lk | 15:25 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Lk | 20:1 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Lk | 22:52 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Lk | 22:66 | A3 | no | Jewish elders, "tradition of the elders" or an older son
+Ac | 2:17 | A3 | no | Jewish elders or "old men" (Joel)
+Ac | 4:5 | A3 | no | Jewish elders or "old men" (Joel)
+Ac | 4:8 | A3 | no | Jewish elders or "old men" (Joel)
+Ac | 4:23 | A3 | no | Jewish elders or "old men" (Joel)
+Ac | 6:12 | A3 | no | Jewish elders or "old men" (Joel)
+Ac | 11:30 | A3 | yes | elders of the Jerusalem or other churches
+Ac | 14:23 | A3 | yes | elders of the Jerusalem or other churches
+Ac | 15:2 | A3 | yes | elders of the Jerusalem or other churches
+Ac | 15:4 | A3 | yes | elders of the Jerusalem or other churches
+Ac | 15:6 | A3 | yes | elders of the Jerusalem or other churches
+Ac | 15:22 | A3 | yes | elders of the Jerusalem or other churches
+Ac | 15:23 | A3 | yes | elders of the Jerusalem or other churches
+Ac | 16:4 | A3 | yes | elders of the Jerusalem or other churches
+Ac | 20:17 | A3 | yes | elders of the Jerusalem or other churches
+Ac | 21:18 | A3 | yes | elders of the Jerusalem or other churches
+Ac | 22:5 | A3 | no | Jewish elders or "old men" (Joel)
+Ac | 23:14 | A3 | no | Jewish elders or "old men" (Joel)
+Ac | 24:1 | A3 | no | Jewish elders or "old men" (Joel)
+Ac | 25:15 | A3 | no | Jewish elders or "old men" (Joel)
+Ro | 1:9 | A4 | no | "the gospel" as message, not a cited book
+Ro | 2:16 | A4 | no | "the gospel" as message, not a cited book
+Ro | 10:15 | A4 | no | "the gospel" as message, not a cited book
+Ro | 10:16 | A4 | no | "the gospel" as message, not a cited book
+1Co | 9:18 | A4 | no | "the gospel" as message, not a cited book
+2Co | 8:18 | A4 | no | "the gospel" as message, not a cited book
+2Co | 10:14 | A4 | no | "the gospel" as message, not a cited book
+Php | 4:3 | A4 | no | "the gospel" as message, not a cited book
+1Th | 3:2 | A4 | no | "the gospel" as message, not a cited book
+1Ti | 1:11 | A4 | no | "the gospel" as message, not a cited book
+1Ti | 3:2 | A2 | no | generic singular "the overseer"; overseers and elders the same people (Titus 1:5-7)
+1Ti | 4:14 | A3 | yes | elders or presbytery of the church
+1Ti | 5:1 | A3 | no | older man / older women
+1Ti | 5:2 | A3 | no | older man / older women
+1Ti | 5:17 | A3 | yes | elders or presbytery of the church
+1Ti | 5:19 | A3 | yes | elders or presbytery of the church
+2Ti | 2:8 | A4 | no | "the gospel" as message, not a cited book
+Tit | 1:5 | A3 | yes | church elders (or "the elder" as title)
+Tit | 1:7 | A2 | no | generic singular "the overseer"; overseers and elders the same people (Titus 1:5-7)
+Heb | 11:2 | A3 | no | "the ancients"
+Jas | 5:14 | A3 | yes | church elders (or "the elder" as title)
+1Pe | 2:25 | A2 | no | Christ, "overseer of your souls"
+1Pe | 5:1 | A3 | yes | church elders (or "the elder" as title)
+1Pe | 5:5 | A3 | yes | church elders (or "the elder" as title)
+2Jn | 1:1 | A3 | yes | church elders (or "the elder" as title)
+3Jn | 1:1 | A3 | yes | church elders (or "the elder" as title)
+Re | 4:4 | A3 | no | the 24 heavenly elders
+Re | 4:10 | A3 | no | the 24 heavenly elders
+Re | 5:5 | A3 | no | the 24 heavenly elders
+Re | 5:6 | A3 | no | the 24 heavenly elders
+Re | 5:8 | A3 | no | the 24 heavenly elders
+Re | 5:11 | A3 | no | the 24 heavenly elders
+Re | 5:14 | A3 | no | the 24 heavenly elders
+Re | 7:11 | A3 | no | the 24 heavenly elders
+Re | 7:13 | A3 | no | the 24 heavenly elders
+Re | 11:16 | A3 | no | the 24 heavenly elders
+Re | 14:3 | A3 | no | the 24 heavenly elders
+Re | 19:4 | A3 | no | the 24 heavenly elders
+1Clement | w158 | A3 | no | older men (some read church presbyters)
+1Clement | w424 | A3 | no | older men (some read church presbyters)
+1Clement | w3527 | A3 | no | older men (some read church presbyters)
+1Clement | w6746 | A3 | yes | the presbyters of the Corinthian church
+1Clement | w7230 | A3 | yes | the presbyters of the Corinthian church
+1Clement | w8097 | A3 | yes | the presbyters of the Corinthian church
+1Clement | w8213 | A3 | no | elders of Bethulia (Judith)
+1Clement | w8573 | A3 | yes | the presbyters of the Corinthian church
+1Clement | w9020 | A2 | no | God, "overseer of every spirit"
+2Clement | w1164 | A4 | yes | "the Lord says in the gospel" before a quoted saying
+2Clement | w2480 | A3 | yes | "admonished by the presbyters"
+2Clement | w2584 | A3 | yes | "admonished by the presbyters"
+Ignatius | w136 | A2 | yes | the local church's bishop
+Ignatius | w159 | A2 | yes | the local church's bishop
+Ignatius | w183 | A2 | yes | the local church's bishop
+Ignatius | w252 | A2 | yes | the local church's bishop
+Ignatius | w255 | A3 | yes | presbyters / presbytery of the church
+Ignatius | w353 | A2 | yes | the local church's bishop
+Ignatius | w362 | A3 | yes | presbyters / presbytery of the church
+Ignatius | w369 | A2 | yes | the local church's bishop
+Ignatius | w450 | A2 | yes | the local church's bishop
+Ignatius | w509 | A2 | yes | the local church's bishop
+Ignatius | w538 | A2 | yes | the local church's bishop
+Ignatius | w548 | A2 | yes | the local church's bishop
+Ignatius | w572 | A2 | yes | the local church's bishop
+Ignatius | w1685 | A2 | yes | the local church's bishop
+Ignatius | w1688 | A3 | yes | presbyters / presbytery of the church
+Ignatius | w1892 | A2 | yes | the local church's bishop
+Ignatius | w1894 | A3 | yes | presbyters / presbytery of the church
+Ignatius | w1911 | A2 | yes | the local church's bishop
+Ignatius | w1917 | A3 | yes | presbyters / presbytery of the church
+Ignatius | w1931 | A2 | yes | the local church's bishop
+Ignatius | w1946 | A3 | yes | presbyters / presbytery of the church
+Ignatius | w1970 | A2 | no | God the Father called "bishop of all"
+Ignatius | w1988 | A2 | yes | the local church's bishop
+Ignatius | w2027 | A2 | yes | the local church's bishop
+Ignatius | w2151 | A2 | yes | the local church's bishop
+Ignatius | w2157 | A3 | yes | presbyters / presbytery of the church
+Ignatius | w2216 | A2 | yes | the local church's bishop
+Ignatius | w2248 | A2 | yes | the local church's bishop
+Ignatius | w2251 | A3 | yes | presbyters / presbytery of the church
+Ignatius | w2696 | A2 | yes | the local church's bishop
+Ignatius | w2703 | A3 | yes | presbyters / presbytery of the church
+Ignatius | w2712 | A2 | yes | the local church's bishop
+Ignatius | w2806 | A2 | yes | the local church's bishop
+Ignatius | w2900 | A2 | yes | the local church's bishop
+Ignatius | w2947 | A2 | yes | the local church's bishop
+Ignatius | w2982 | A2 | yes | the local church's bishop
+Ignatius | w2990 | A3 | yes | presbyters / presbytery of the church
+Ignatius | w3047 | A2 | yes | the local church's bishop
+Ignatius | w3054 | A3 | yes | presbyters / presbytery of the church
+Ignatius | w3086 | A2 | yes | the local church's bishop
+Ignatius | w3311 | A2 | yes | the local church's bishop
+Ignatius | w3335 | A2 | yes | the local church's bishop
+Ignatius | w3337 | A3 | yes | presbyters / presbytery of the church
+Ignatius | w3643 | A3 | yes | presbyters / presbytery of the church
+Ignatius | w3646 | A2 | yes | the local church's bishop
+Ignatius | w3728 | A2 | yes | the local church's bishop
+Ignatius | w3735 | A3 | yes | presbyters / presbytery of the church
+Ignatius | w4016 | A2 | yes | the local church's bishop
+Ignatius | w4861 | A2 | yes | the local church's bishop
+Ignatius | w4866 | A3 | yes | presbyters / presbytery of the church
+Ignatius | w4887 | A2 | yes | the local church's bishop
+Ignatius | w5030 | A2 | yes | the local church's bishop
+Ignatius | w5100 | A2 | yes | the local church's bishop
+Ignatius | w5103 | A3 | yes | presbyters / presbytery of the church
+Ignatius | w5165 | A3 | yes | presbyters / presbytery of the church
+Ignatius | w5209 | A4 | no | "the gospel" as message
+Ignatius | w5362 | A2 | yes | the local church's bishop
+Ignatius | w5366 | A3 | yes | presbyters / presbytery of the church
+Ignatius | w5400 | A2 | yes | the local church's bishop
+Ignatius | w5460 | A2 | yes | the local church's bishop
+Ignatius | w5495 | A4 | no | Philadelphians 8.2 "in the gospel": whether a written book is disputed
+Ignatius | w5709 | A3 | yes | presbyters / presbytery of the church
+Ignatius | w6463 | A2 | yes | the local church's bishop
+Ignatius | w6472 | A3 | yes | presbyters / presbytery of the church
+Ignatius | w6486 | A2 | yes | the local church's bishop
+Ignatius | w6500 | A2 | yes | the local church's bishop
+Ignatius | w6511 | A2 | yes | the local church's bishop
+Ignatius | w6531 | A2 | yes | the local church's bishop
+Ignatius | w6571 | A2 | yes | the local church's bishop
+Ignatius | w6575 | A2 | yes | the local church's bishop
+Ignatius | w6581 | A2 | yes | the local church's bishop
+Ignatius | w6856 | A2 | yes | the local church's bishop
+Ignatius | w6859 | A3 | yes | presbyters / presbytery of the church
+Ignatius | w6969 | A2 | yes | the local church's bishop
+Ignatius | w7386 | A2 | yes | the local church's bishop
+Ignatius | w7398 | A2 | yes | the local church's bishop
+Ignatius | w7418 | A2 | yes | the local church's bishop
+Ignatius | w7430 | A2 | yes | the local church's bishop
+Ignatius | w7431 | A3 | yes | presbyters / presbytery of the church
+Polycarp | w6 | A3 | yes | presbyters / presbytery of the church
+Polycarp | w643 | A3 | yes | presbyters / presbytery of the church
+Polycarp | w660 | A3 | yes | presbyters / presbytery of the church
+MartyrdomPolycarp | w76 | A4 | no | "according to the gospel" (the pattern of the gospel story), no book cited
+MartyrdomPolycarp | w1805 | A2 | yes | Polycarp, bishop of the church in Smyrna
+MartyrdomPolycarp | w2103 | A4 | no | "according to the gospel" (the pattern of the gospel story), no book cited
+MartyrdomPolycarp | w2304 | A4 | no | "according to the gospel" (the pattern of the gospel story), no book cited
+MartyrdomPolycarp | w2459 | A2 | yes | Polycarp, bishop of the church in Smyrna
+Barnabas | w4717 | A3 | no | older / more ancient, or Jewish elders
+Didache | w1047 | A4 | yes | "as you have in the gospel" / "as the Lord commanded in his gospel"
+Didache | w1962 | A4 | yes | "as you have in the gospel" / "as the Lord commanded in his gospel"
+Didache | w1995 | A4 | yes | "as you have in the gospel" / "as the Lord commanded in his gospel"
+Hermas | w1065 | A3 | no | the old woman (the Church) or old men
+Hermas | w1588 | A3 | no | the old woman (the Church) or old men
+Hermas | w1616 | A3 | no | the old woman (the Church) or old men
+Hermas | w1624 | A3 | no | the old woman (the Church) or old men
+Hermas | w1641 | A3 | no | the old woman (the Church) or old men
+Hermas | w1651 | A3 | yes | "the elders who preside over the church"
+Hermas | w1711 | A3 | yes | "the elders who preside over the church"
+Hermas | w1737 | A3 | no | the old woman (the Church) or old men
+Hermas | w1745 | A3 | no | the old woman (the Church) or old men
+Hermas | w1986 | A3 | yes | "the elders who preside over the church"
+Hermas | w4409 | A3 | no | the old woman (the Church) or old men
+Hermas | w4429 | A3 | no | the old woman (the Church) or old men
+Hermas | w4453 | A3 | no | the old woman (the Church) or old men
+Hermas | w4478 | A3 | no | the old woman (the Church) or old men
+Hermas | w4552 | A3 | no | the old woman (the Church) or old men
+Hermas | w4604 | A3 | no | the old woman (the Church) or old men
+Hermas | w4615 | A3 | no | the old woman (the Church) or old men
+Hermas | w4632 | A3 | no | the old woman (the Church) or old men
+Hermas | w4732 | A3 | no | the old woman (the Church) or old men
+Hermas | w4740 | A3 | no | the old woman (the Church) or old men
+Justin | w4426 | A3 | no | older / more ancient, or Jewish elders
+Justin | w8739 | A3 | no | older / more ancient, or Jewish elders
+Justin | w11092 | A3 | no | older / more ancient, or Jewish elders
+Justin | w12025 | A3 | no | older / more ancient, or Jewish elders
+Justin | w13864 | A4 | yes | "memoirs of the apostles, which are called gospels"
+Justin | w13999 | A4 | yes | "memoirs of the apostles, which are called gospels"
+Justin | w25878 | A3 | no | older / more ancient, or Jewish elders
+Justin | w25915 | A3 | no | older / more ancient, or Jewish elders
+Justin | w28459 | A4 | yes | "memoirs of the apostles, which are called gospels"
+Justin | w28669 | A4 | yes | "memoirs of the apostles, which are called gospels"
+Justin | w28697 | A4 | yes | "memoirs of the apostles, which are called gospels"
+Justin | w28819 | A4 | yes | "memoirs of the apostles, which are called gospels"
+Justin | w28875 | A4 | yes | "memoirs of the apostles, which are called gospels"
+Justin | w28987 | A4 | yes | "memoirs of the apostles, which are called gospels"
+Justin | w29016 | A4 | yes | "memoirs of the apostles, which are called gospels"
+Athenagoras | w4392 | A3 | no | older / more ancient, or Jewish elders
+Athenagoras | w5243 | A3 | no | older / more ancient, or Jewish elders
+Athenagoras | w11147 | A3 | no | older / more ancient, or Jewish elders
+Athenagoras | w11373 | A3 | no | older / more ancient, or Jewish elders
+Tatian | w5713 | A4 | no | pagan "memoirs"
+Tatian | w7348 | A3 | no | older / more ancient, or Jewish elders
+Tatian | w7585 | A3 | no | older / more ancient, or Jewish elders
+Tatian | w7612 | A3 | no | older / more ancient, or Jewish elders
+Tatian | w9089 | A3 | no | older / more ancient, or Jewish elders
+Tatian | w9539 | A3 | no | older / more ancient, or Jewish elders
+Tatian | w9745 | A3 | no | older / more ancient, or Jewish elders
+Tatian | w9867 | A3 | no | older / more ancient, or Jewish elders
+Theophilus | w13506 | A2 | no | God as overseer (poetic)
+Theophilus | w17139 | A3 | no | older / more ancient, or Jewish elders
+Theophilus | w17389 | A4 | yes | "the gospel says: love your enemies"
+ClementAlexandria | w7262 | A2 | no | God as overseer of all becoming
+ClementAlexandria | w16970 | A3 | no | older / more ancient, or Jewish elders
+ClementAlexandria | w20146 | A3 | no | older / more ancient, or Jewish elders
+ClementAlexandria | w23238 | A3 | no | older / more ancient, or Jewish elders
+ClementAlexandria | w25058 | A4 | yes | "in the gospel according to Mark"
+ClementAlexandria | w25633 | A3 | no | older / more ancient, or Jewish elders
+ClementAlexandria | w29680 | A3 | no | older / more ancient, or Jewish elders
+ClementAlexandria | w32456 | A2 | yes | the bishop in charge of a church (Quis dives 42)
+ClementAlexandria | w32506 | A3 | yes | "the presbyter" in charge of the youth (Quis dives 42)

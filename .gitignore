@@ -1,3 +1,45 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+
+# Editor settings
+.vscode/
+
+# Downloaded by setup_data.py (licensed texts; anyone can re-download them)
+sblgnt/
+100_english_novels/
 canonical-greekLit/
 First1KGreek/
+lxx/
+idp.data/
+ud/
+byzantine-majority-text/
+g1.xml
+g2.xml
+
+# Built by setup_data.py
+corpus_nt_chapters/
+corpus_nt_books/
+corpus_acts/
+corpus_nt_books_*/
+removed_passages.txt
+english_demo/corpus_*/
+advanced/greek_reference.json
 advanced/letters_reference.json
+period_study/papyri_letters.json
+period_study/dated_authors.json
+period_study/rhetoric_texts.json
+
+# Private: never publish
+tiktok_test/texts/
+book_claims/novels/
+*.docx
+diatribe_examples.txt
+letter_period/letter_texts.json
+letter_period/papyri_letters_accented.json
+letter_period/papyri_groups.json
+letter_period/papyri_trend_letters.json
+letter_period/tags_treebank.json
+letter_period/tags_stanza.json
+paul_lineup/lineup_texts.json

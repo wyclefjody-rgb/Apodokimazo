@@ -1,0 +1,39 @@
+# source | tier | usual date (CE) | notes on the date
+Romans | 1 | c. 56-57 | conventional date; Livesey c. 144
+1 Corinthians | 1 | c. 53-55 | conventional date; Livesey c. 144
+2 Corinthians | 1 | c. 55-56 | conventional date, often taken as several letters joined; Livesey c. 144
+Galatians | 1 | c. 50-56 | conventional date; Livesey c. 144
+Philippians | 1 | c. 54-62 | depends on where Paul was imprisoned (Ephesus, Caesarea or Rome)
+1 Thessalonians | 1 | c. 50-51 | usually the earliest letter
+Philemon | 1 | c. 54-62 | written in prison, as Philippians
+2 Thessalonians | 2 | c. 51 or 70-100 | Paul's if genuine; otherwise after his death
+Colossians | 2 | c. 60 or 70-90 | Paul's if genuine; otherwise after his death
+Ephesians | 2 | c. 80-100 | most critical scholars: after Paul's death
+1 Timothy | 2 | c. 100-140 | most critical scholars: after Paul's death
+2 Timothy | 2 | c. 100-140 | most critical scholars: after Paul's death
+Titus | 2 | c. 100-140 | most critical scholars: after Paul's death
+Acts | 3 | c. 80-130 | many date it 80-90; Pervo and Tyson c. 110-120
+1 Clement | 4 | c. 95-97 | traditional; range proposed 70-140; Livesey 140s
+Ignatius | 4 | c. 105-117 | traditional; some date the letters c. 140
+Polycarp | 4 | c. 110-140 | Philippians (perhaps two letters joined)
+2 Peter | 4 | c. 100-150 | most critical scholars: pseudonymous
+Epistle of the Apostles | 4 | c. 150 | survives mainly in Ethiopic and Coptic
+Marcion | 4 | c. 140 | his edition of Paul, known only from opponents (Irenaeus, Tertullian, Epiphanius)
+Dionysius of Corinth | 4 | c. 170 | quoted by Eusebius, Church History 2.25.8
+Irenaeus | 4 | c. 180 | Against Heresies
+Muratorian list | 4 | c. 170-200 | a few date it to the 4th century
+Tertullian | 4 | c. 200-210 | Prescription against Heretics; Against Marcion
+Clement of Alexandria | 4 | c. 200 | Stromata
+Gaius of Rome | 4 | c. 200 | quoted by Eusebius, Church History 2.25.7
+Acts of Paul | 5 | c. 160-190 | known to Tertullian (On Baptism 17), who says an Asian elder wrote it and was removed from office; includes the Acts of Paul and Thecla, 3 Corinthians and the Martyrdom of Paul
+Acts of Peter | 5 | c. 180-190 | the Vercelli Acts, chapters 1-3 tell of Paul
+Josephus | 6 | c. 75-95 | Jewish War (c. 75), Antiquities (c. 93-94); never mentions Paul
+Tacitus | 6 | c. 105-120 | Annals, Histories; never mentions Paul
+Suetonius | 6 | c. 120 | Lives of the Caesars; never mentions Paul
+Delphi inscription | 6 | 52 | letter of Claudius naming the proconsul Gallio (SIG3 801 D)
+Corinth inscription | 6 | 1st century (disputed) | the Erastus pavement inscription
+Temple warning inscriptions | 6 | before 70 | two found in Jerusalem (1871, 1935)
+Inscriptions | 6 | 1st century | various; see each row
+Coins | 6 | 1st century | Nabataean coinage of Aretas IV
+Undisputed letters | 1 | c. 50-62 | a row citing more than one of the seven letters
+Disputed letters | 2 | c. 51-140 | a row citing more than one of the six disputed letters

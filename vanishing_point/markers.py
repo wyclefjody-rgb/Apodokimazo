@@ -1,0 +1,179 @@
+"""
+    Part A of the Daniel-method study (PREDICTIONS.md section 3): markers of 2nd-century church life, counted in
+    every Christian text of the kit.
+
+      A1  "Christian" / "Christianity" (Χριστιανός, Χριστιανισμός)
+      A2  ἐπίσκοπος in the singular (candidates; coded by hand: a single bishop over a church, or not)
+      A3  πρεσβύτερος / πρεσβυτέριον (candidates; coded by hand: elders as a church office, or not)
+      A4  written gospels cited as books: ἀπομνημονεύματα ("memoirs"), or "gospel" next to ἐν τῷ / κατά or a
+          verb of quoting (candidates; coded by hand)
+      A5  τὸ δοκεῖν, "in appearance" (the docetic dispute)
+
+    Hand codes live in codes.txt (text | place | code | reason), code "yes" or "no". A candidate without a code is
+    reported as "not yet coded" and left out of the counts. Places are chapter:verse for the New Testament (from
+    the SBLGNT) and word numbers for the other texts (from paul_lineup/lineup_texts.json).
+
+    Output: MARKERS.md.
+
+    Usage (from the kit folder):   python -X utf8 vanishing_point/markers.py
+"""
+import json
+import os
+import re
+import sys
+from glob import glob
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+KIT = os.path.join(HERE, "..")
+sys.path.insert(0, os.path.join(KIT, "paul_lineup"))
+from words import accented, plain
+
+SBLGNT = os.path.join(KIT, "sblgnt")
+LINEUP = os.path.join(KIT, "paul_lineup", "lineup_texts.json")
+CODES = os.path.join(HERE, "codes.txt")
+OUTPUT = os.path.join(HERE, "MARKERS.md")
+
+NEW_TESTAMENT = ["Mt", "Mk", "Lk", "Jn", "Ac", "Ro", "1Co", "2Co", "Ga", "Eph", "Php", "Col", "1Th", "2Th",
+                 "1Ti", "2Ti", "Tit", "Phm", "Heb", "Jas", "1Pe", "2Pe", "1Jn", "2Jn", "3Jn", "Jud", "Re"]
+OTHERS = ["1Clement", "2Clement", "Ignatius", "Polycarp", "MartyrdomPolycarp", "Barnabas", "Didache", "Hermas",
+          "Diognetus", "Justin", "Athenagoras", "Tatian", "Theophilus", "ClementAlexandria"]
+CORE_FOUR = ["Ro", "1Co", "2Co", "Ga"]
+BISHOP = {"επισκοποσ", "επισκοπου", "επισκοπω", "επισκοπον"}
+QUOTING = {"λεγει", "γεγραπται", "φησιν", "φησι", "γεγραμμενον", "λεγεται", "εκελευσεν", "εχετε", "ειρηκεν"}
+MARKERS = {"A1": "\"Christian(ity)\"", "A2": "a single bishop", "A3": "elders as a church office",
+           "A4": "written gospels cited", "A5": "\"in appearance\" (docetic dispute)"}
+HAND_CODED = {"A2", "A3", "A4"}
+CONTEXT = 7
+RATE = 10000
+
+
+def new_testament():
+    texts = {}
+    for book in NEW_TESTAMENT:
+        paths = glob(os.path.join(SBLGNT, f"*-{book}-morphgnt.txt"))
+        if not paths:
+            sys.exit(f"No MorphGNT file for {book} in '{SBLGNT}'. Run setup_data.py first.")
+        words = []
+        places = []
+        with open(paths[0], encoding="utf8") as file:
+            for line in file:
+                columns = line.split()
+                word = accented(columns[4])
+                if word:
+                    words.append(word)
+                    places.append(f"{int(columns[0][2:4])}:{int(columns[0][4:6])}")
+        texts[book] = (words, places)
+    return texts
+
+
+def other_texts():
+    if not os.path.exists(LINEUP):
+        sys.exit(f"'{LINEUP}' not found. Run  python paul_lineup/build_lineup.py  first.")
+    with open(LINEUP, encoding="utf8") as file:
+        lineup = json.load(file)
+    texts = {}
+    for name in OTHERS:
+        words = lineup[name]["words"]
+        places = []
+        for i in range(len(words)):
+            places.append(f"w{i + 1}")
+        texts[name] = (words, places)
+    return texts
+
+
+def candidates(plains, i):
+    word = plains[i]
+    found = []
+    if word.startswith("χριστιαν"):
+        found.append("A1")
+    if word in BISHOP:
+        found.append("A2")
+    if word.startswith("πρεσβυτερ"):
+        found.append("A3")
+    if word.startswith("απομνημονευμ"):
+        found.append("A4")
+    elif word.startswith("ευαγγελι"):
+        before = plains[max(0, i - 2):i]
+        nearby = plains[max(0, i - 6):i + 7]
+        quoted = False
+        for other in nearby:
+            if other in QUOTING:
+                quoted = True
+        if "κατα" in before or before[-2:] == ["εν", "τω"] or quoted:
+            found.append("A4")
+    if word == "δοκειν" and i > 0 and plains[i - 1] == "το":
+        found.append("A5")
+    return found
+
+
+def read_codes():
+    codes = {}
+    if not os.path.exists(CODES):
+        return codes
+    with open(CODES, encoding="utf8") as file:
+        for line in file:
+            if line.startswith("#") or not line.strip():
+                continue
+            name, place, marker, code, reason = re.split(r"\s+\|\s+", line.rstrip("\n"), maxsplit=4)
+            codes[(name, place, marker)] = (code, reason)
+    return codes
+
+
+def main():
+    sys.stdout.reconfigure(encoding="utf-8")
+    texts = new_testament()
+    texts.update(other_texts())
+    codes = read_codes()
+    lines = ["# Part A: markers of 2nd-century church life", "",
+             "Rules: PREDICTIONS.md section 3. Generated by markers.py. Counts are hits coded \"yes\" (A1 and A5 "
+             "need no code); per 10,000 words in brackets.", ""]
+    header = "| text | words |"
+    rule = "|---|---|"
+    for marker, label in MARKERS.items():
+        header += f" {marker} {label} |"
+        rule += "---|"
+    lines.append(header)
+    lines.append(rule)
+    listing = []
+    uncoded = 0
+    for name, (words, places) in texts.items():
+        plains = []
+        for word in words:
+            plains.append(plain(word))
+        counts = {}
+        for marker in MARKERS:
+            counts[marker] = 0
+        for i in range(len(plains)):
+            for marker in candidates(plains, i):
+                context = " ".join(words[max(0, i - CONTEXT):i]) + f" **{words[i]}** " + \
+                    " ".join(words[i + 1:i + 1 + CONTEXT])
+                code = "yes"
+                reason = ""
+                if marker in HAND_CODED:
+                    code, reason = codes.get((name, places[i], marker), ("not yet coded", ""))
+                if code == "yes":
+                    counts[marker] += 1
+                if code == "not yet coded":
+                    uncoded += 1
+                listing.append(f"| {name} | {places[i]} | {marker} | {code} | {context} | {reason} |")
+        row = f"| {name} | {len(words):,} |"
+        for marker in MARKERS:
+            row += f" {counts[marker]} ({RATE * counts[marker] / len(words):.1f}) |"
+        lines.append(row)
+    lines.append("")
+    if uncoded:
+        lines.append(f"{uncoded} candidates are not yet coded and are left out of the counts.")
+        lines.append("")
+    lines.append("## Every candidate")
+    lines.append("")
+    lines.append("| text | place | marker | code | context | reason |")
+    lines.append("|---|---|---|---|---|---|")
+    lines.extend(listing)
+    with open(OUTPUT, "w", encoding="utf8") as file:
+        file.write("\n".join(lines) + "\n")
+    print("\n".join(lines[:len(texts) + 8]))
+    print(f"\nWrote {OUTPUT}")
+
+
+if __name__ == "__main__":
+    main()

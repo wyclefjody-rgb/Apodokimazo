@@ -1,0 +1,44 @@
+# id | episode | when (conventional chronology, anchored by Aretas and Gallio) | where
+E01 | Origin and ancestry | birth, c. 5-10 | Tarsus (Acts only)
+E02 | The names Saul and Paul | throughout | -
+E03 | Roman citizenship | throughout | -
+E04 | Education and trade | before c. 33 | Jerusalem (Acts only)
+E05 | Persecutor of the church | before c. 33 | Jerusalem (Acts); Judea or Damascus (letters unclear)
+E06 | The call | c. 33 | near Damascus
+E07 | Arabia and return to Damascus | c. 33-36 | Arabia (Nabataea), Damascus
+E08 | Escape from Damascus | c. 36 (before Aretas' death in 40) | Damascus
+E09 | First visit to Jerusalem as a believer | c. 36 | Jerusalem
+E10 | Syria and Cilicia | c. 36-48 | Tarsus, Antioch
+E11 | Famine-relief visit to Jerusalem | c. 46-48 | Jerusalem
+E12 | First journey: Cyprus and southern Asia Minor | c. 46-48 | Cyprus, Perge, Pisidian Antioch, Iconium, Lystra, Derbe
+E13 | Galatia | c. 48-50 | Galatia
+E14 | The Jerusalem meeting | c. 48-50 | Jerusalem
+E15 | The Antioch incident and the split with Barnabas | c. 49-50 | Antioch
+E16 | Timothy | c. 49 onwards | Lystra and after
+E17 | Silas / Silvanus | c. 49-51 | Macedonia, Corinth
+E18 | Philippi | c. 49-50 | Philippi
+E19 | Thessalonica and Beroea | c. 50 | Thessalonica, Beroea
+E20 | Athens | c. 50 | Athens
+E21 | Corinth: founding the church | c. 50-52 | Corinth
+E22 | Apollos | c. 52-55 | Ephesus, Corinth
+E23 | Ephesus | c. 52-55 | Ephesus, Asia
+E24 | Imprisonments | throughout | various
+E25 | Onesimus and Philemon | c. 54-62 | place of imprisonment debated; Colossae
+E26 | The Corinthian crisis: letters and visits | c. 53-56 | Ephesus, Corinth, Macedonia
+E27 | Opponents and rival apostles | throughout | Galatia, Corinth, Philippi, Jerusalem
+E28 | The collection for Jerusalem | c. 50-57 | Galatia, Macedonia, Achaia, Jerusalem
+E29 | Illyricum, and plans for Rome and Spain | c. 56-57 and after | Illyricum, Rome, Spain
+E30 | Last journey to Jerusalem | c. 57 | Troas, Miletus, Tyre, Caesarea, Jerusalem
+E31 | Arrest in the Temple | c. 57 | Jerusalem
+E32 | Caesarea: Felix, Festus, Agrippa | c. 57-59 | Caesarea
+E33 | Shipwrecks; the voyage to Rome | c. 59-60 | at sea, Malta
+E34 | Rome | c. 60-62 | Rome
+E35 | Death | c. 62-67 (tradition) | Rome (tradition)
+E36 | Appearance, health and manner | throughout | -
+E37 | Visions, revelations and miracles | throughout | -
+E38 | Marriage and celibacy | throughout | -
+E39 | Writing letters | c. 50-57 | -
+E40 | Luke the companion | c. 49-62 | -
+E41 | Cephas / Peter | c. 36-60s | Jerusalem, Antioch, Corinth, Rome
+E42 | The network greeted in Romans 16 | c. 56-57 | Corinth, Cenchreae, Rome
+E43 | Desertions and betrayals | c. 55-67 | Asia, Rome

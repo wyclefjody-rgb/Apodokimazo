@@ -1,0 +1,215 @@
+# episode | source | reference | people | relation | what it says
+# relation (EXPECTATIONS.md section 3): letters, agrees, differs, conflicts, not in letters, setting
+# New Testament references use MorphGNT book codes and are checked against the SBLGNT by check_map.py.
+
+E01 | Philippians | Php 3:5-6 | - | letters | circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as to the law a Pharisee
+E01 | Romans | Ro 11:1 | - | letters | an Israelite, a descendant of Abraham, of the tribe of Benjamin
+E01 | 2 Corinthians | 2Co 11:22 | - | letters | a Hebrew, an Israelite, a descendant of Abraham
+E01 | Acts | Ac 9:11; Ac 21:39; Ac 22:3 | - | not in letters | "Saul of Tarsus"; a Jew of Tarsus in Cilicia, "a citizen of no mean city"; born at Tarsus. The letters never name his home town
+E01 | Acts | Ac 23:6; Ac 26:5 | - | agrees | "I am a Pharisee, a son of Pharisees"; lived as a Pharisee, the strictest party
+
+E02 | Undisputed letters | Ro 1:1; 1Co 1:1; 2Co 1:1; Ga 1:1; Php 1:1; 1Th 1:1; Phm 1:1 | - | letters | always "Paul"; the name Saul never appears in any letter
+E02 | Acts | Ac 7:58; Ac 13:9 | - | not in letters | called Saul until Acts 13:9, "Saul, who is also called Paul", and Paul from then on; the risen Jesus calls him "Saoul" in Hebrew form (Ac 9:4)
+
+E03 | 2 Corinthians | 2Co 11:25 | - | letters | "three times I was beaten with rods", a punishment given by Roman magistrates; the letters never say he was a Roman citizen
+E03 | Acts | Ac 16:37-38; Ac 22:25-29; Ac 25:10-12 | Festus | not in letters | a Roman citizen by birth; protests that citizens were beaten uncondemned at Philippi; appeals to Caesar. In tension with 2 Cor 11:25 (three beatings with rods), though citizens were sometimes beaten illegally
+
+E04 | Galatians | Ga 1:14 | - | letters | advanced in Judaism beyond many of his own age, extremely zealous for the traditions of his fathers
+E04 | Acts | Ac 22:3; Ac 26:4-5 | Gamaliel | not in letters | brought up in Jerusalem, educated "at the feet of Gamaliel"; lived from youth among his own nation in Jerusalem
+E04 | Undisputed letters | 1Th 2:9; 1Co 4:12; 1Co 9:6, 12-18 | Barnabas | letters | worked night and day with his own hands so as not to burden anyone; refused his right to be supported
+E04 | Acts | Ac 18:3; Ac 20:34 | Aquila, Priscilla | agrees | a tentmaker (skenopoios) by trade, working with Aquila and Priscilla; "these hands ministered to my needs"
+E04 | 2 Thessalonians | 2Th 3:7-9 | - | agrees | worked night and day so as not to burden them, to give an example
+
+E05 | Undisputed letters | Ga 1:13; Ga 1:23; 1Co 15:9; Php 3:6 | - | letters | persecuted the church of God violently and tried to destroy it
+E05 | Galatians | Ga 1:22-23 | - | letters | "I was still unknown by face to the churches of Judea"; they only heard "the one who once persecuted us now preaches the faith"
+E05 | Acts | Ac 8:3; Ac 9:1-2; Ac 22:4-5; Ac 26:9-11 | - | differs | ravaged the church in Jerusalem, dragging men and women to prison; got letters from the high priest to arrest believers in the synagogues of Damascus; voted for their deaths. Hard to square with Ga 1:22 (unknown by face in Judea), though not impossible
+E05 | Acts | Ac 7:58; Ac 8:1; Ac 22:20 | Stephen | not in letters | present at the stoning of Stephen, guarding the witnesses' cloaks, approving of his death
+E05 | 1 Timothy | 1Ti 1:13 | - | agrees | formerly a blasphemer, a persecutor and a man of violence
+
+E06 | Undisputed letters | Ga 1:15-17; 1Co 9:1; 1Co 15:8 | - | letters | God "revealed his Son in me"; "have I not seen Jesus our Lord?"; "last of all he appeared also to me"; afterwards he "returned to Damascus", so the call was near it
+E06 | Acts | Ac 9:3-19; Ac 22:6-16; Ac 26:12-18 | Ananias of Damascus | differs | a light and a voice on the road to Damascus; blinded three days; healed and baptized by Ananias. Acts' three tellings differ among themselves (his companions hear the voice in 9:7, do not hear it in 22:9)
+E06 | Epistle of the Apostles | 31-33 | - | agrees | the risen Jesus foretells that a persecutor, Saul, will be called and will preach to the gentiles
+
+E07 | Galatians | Ga 1:16-17 | - | letters | "I did not confer with flesh and blood, nor go up to Jerusalem ... but I went away into Arabia, and returned again to Damascus"
+E07 | Acts | Ac 9:19-25 | - | differs | preaches in the synagogues of Damascus "immediately", then "after many days" escapes; Acts has no journey to Arabia
+
+E08 | 2 Corinthians | 2Co 11:32-33 | Aretas IV | letters | the ethnarch of King Aretas guarded the city of Damascus to seize him; he was let down in a basket through a window in the wall
+E08 | Acts | Ac 9:23-25 | - | differs | "the Jews" plotted to kill him and watched the gates; the disciples let him down over the wall in a basket. Same escape, different pursuers; Aretas is not named
+E08 | Coins | Nabataean coinage; Josephus, Antiquities 18.109-125 | Aretas IV | setting | Aretas IV ruled the Nabataeans c. 9 BCE - 40 CE (his coins are dated by regnal year); Josephus tells of his war with Herod Antipas c. 36. Nabataean authority in Damascus in the 30s is not attested outside 2 Corinthians and is debated
+
+E09 | Galatians | Ga 1:18-20 | Cephas, James | letters | after three years went up to Jerusalem to visit Cephas and stayed fifteen days; saw no other apostle except James the Lord's brother; "before God, I do not lie"
+E09 | Acts | Ac 9:26-30 | Barnabas | conflicts | the disciples fear him; Barnabas brings him "to the apostles"; he goes in and out among them in Jerusalem, preaching boldly, until Hellenists try to kill him. Galatians swears he saw only Cephas and James and stayed unknown by face to the churches of Judea
+E09 | Acts | Ac 22:17-21 | - | not in letters | in a trance in the Temple the Lord tells him to leave Jerusalem quickly and go to the gentiles
+
+E10 | Galatians | Ga 1:21 | - | letters | then went into the regions of Syria and Cilicia
+E10 | Acts | Ac 9:30; Ac 11:25-26 | Barnabas | agrees | sent to Tarsus; later Barnabas fetches him to Antioch, where they teach for a year and the disciples are first called "Christians"
+
+E11 | Galatians | Ga 2:1 | - | letters | "then after fourteen years I went up again to Jerusalem", the next visit in a sworn list (Ga 1:20) of his contacts with Jerusalem
+E11 | Acts | Ac 11:27-30; Ac 12:25 | Barnabas | conflicts | Barnabas and Saul take famine relief from Antioch to the elders in Judea. An extra visit between Ga 1:18 and Ga 2:1 contradicts Galatians, unless Galatians 2 is this visit (as some scholars hold), in which case Acts 15 becomes the problem
+E11 | Josephus | Antiquities 20.51-53; 20.101 | - | setting | a severe famine in Judea under the governor Tiberius Alexander (c. 46-48), relieved by Queen Helena of Adiabene; matches the famine "under Claudius" of Ac 11:28
+
+E12 | Acts | Ac 13:4-12 | Barnabas, John Mark, Sergius Paulus, Elymas | not in letters | Cyprus: the proconsul Sergius Paulus believes after Paul blinds the magician Bar-Jesus (Elymas)
+E12 | Inscriptions | ILS 5926 (CIL VI 31545); the Soli inscription | Sergius Paulus | setting | a Lucius Sergius Paullus was one of the curators of the Tiber banks appointed in 47, and later senators of the name came from Pisidian Antioch; an inscription from Soli on Cyprus names a proconsul Paulus but may be later. Whether any of them is Acts' proconsul is disputed (Mitford: "at best a conjecture"). Cyprus was governed by a proconsul, as Acts says
+E12 | Acts | Ac 13:13-52; Ac 14:1-18 | Barnabas, John Mark | not in letters | John Mark leaves them at Perge; synagogue sermon at Pisidian Antioch; Iconium; at Lystra a lame man is healed and the crowd hails Barnabas as Zeus and Paul as Hermes
+E12 | 2 Corinthians | 2Co 11:25 | - | letters | "once I was stoned"
+E12 | Acts | Ac 14:19-21 | - | agrees | stoned at Lystra and left for dead; goes on to Derbe
+E12 | 2 Timothy | 2Ti 3:10-11 | - | not in letters | the persecutions he endured "at Antioch, at Iconium, at Lystra"
+E12 | Acts of Paul | Acts of Paul and Thecla 1-3 | Thecla, Onesiphorus, Demas, Hermogenes | not in letters | Paul comes to Iconium; Onesiphorus waits for him on the royal road from Lystra, knowing him only by a description
+
+E13 | Undisputed letters | Ga 1:2; Ga 4:13-15; 1Co 16:1 | - | letters | "the churches of Galatia"; he first preached to them "because of a weakness of the flesh"; they received him "as an angel of God" and would have torn out their eyes for him
+E13 | Acts | Ac 16:6; Ac 18:23 | - | differs | passes through "the Phrygian and Galatian region" twice; founds no named church there. Whether Paul's "Galatia" means the cities of Acts 13-14 or ethnic Galatia to the north is debated
+
+E14 | Galatians | Ga 2:1-10 | Barnabas, Titus, James, Cephas, John | letters | went up "by revelation" with Barnabas and Titus; laid out his gospel privately to "those of repute"; Titus not compelled to be circumcised; "false brothers" spied on their freedom; James, Cephas and John gave the right hand of fellowship and "added nothing" to him, asking only that he remember the poor
+E14 | 1 Corinthians | 1Co 8:1-13; 1Co 10:25-29 | - | letters | on food offered to idols, argues from knowledge and conscience: "eat whatever is sold in the market"; never cites any ruling from Jerusalem
+E14 | Acts | Ac 15:1-29 | Barnabas, Peter, James, Judas Barsabbas, Silas | conflicts | sent by the church of Antioch over circumcision; a public council of apostles and elders; Peter and James speak; a decree binds gentile believers to abstain from idol food, blood, strangled meat and sexual immorality. Paul says they "added nothing" to him (Ga 2:6) and never cites the decree on idol food; Titus is absent from Acts
+E14 | Acts | Ac 21:25 | James | conflicts | years later James tells Paul about the decree as if it were news to him
+
+E15 | Galatians | Ga 2:11-14 | Cephas, James, Barnabas | letters | at Antioch Cephas ate with gentiles until "certain men came from James", then withdrew; even Barnabas was carried away; Paul opposed Cephas "to his face"
+E15 | Acts | Ac 15:36-40 | Barnabas, John Mark, Silas | differs | Paul and Barnabas part over whether to take John Mark; Acts has no clash with Peter
+E15 | 1 Corinthians | 1Co 9:6 | Barnabas | letters | "or is it only Barnabas and I who have no right to refrain from working?" (Barnabas still known to the Corinthians)
+
+E16 | Undisputed letters | 1Th 3:2, 6; 1Co 4:17; 1Co 16:10; Php 2:19-22; 2Co 1:1, 19; Ro 16:21 | Timothy | letters | Timothy is his envoy and co-sender, "like a son with a father he has served with me in the gospel"
+E16 | Acts | Ac 16:1-3 | Timothy | differs | Timothy of Lystra, son of a believing Jewish mother and a Greek father; Paul circumcises him "because of the Jews". Galatians refuses circumcision for gentile believers (Ga 2:3; Ga 5:2-3) and asks "if I still preach circumcision, why am I still persecuted?" (Ga 5:11); Timothy, with a Jewish mother, may be a different case
+E16 | Disputed letters | 1Ti 1:2; 2Ti 1:5 | Timothy, Eunice, Lois | agrees | Timothy his "true child in the faith"; his mother Eunice and grandmother Lois were believers
+
+E17 | Undisputed letters | 1Th 1:1; 2Co 1:19 | Silvanus, Timothy | letters | Silvanus co-sends 1 Thessalonians and preached at Corinth with Paul and Timothy
+E17 | Acts | Ac 15:40; Ac 16:19-40; Ac 18:5 | Silas | agrees | Silas travels with Paul, is jailed with him at Philippi and rejoins him at Corinth
+
+E18 | Acts | Ac 16:9-10 | - | not in letters | a vision of a man of Macedonia calling for help; the first "we" passage begins
+E18 | Undisputed letters | 1Th 2:2; Php 1:5; Php 4:15-16 | - | letters | "we had already suffered and been shamefully treated at Philippi"; the Philippians alone shared with him in giving and sent help to Thessalonica more than once
+E18 | Philippians | Php 1:1; Php 4:2-3 | Euodia, Syntyche, Clement of Philippi | letters | the church has overseers and deacons; Euodia and Syntyche "laboured side by side with me in the gospel"; a "true yokefellow"; Clement
+E18 | Acts | Ac 16:11-40 | Lydia, Silas | agrees | Lydia the purple-seller is baptized; a slave girl exorcized; Paul and Silas beaten with rods and jailed; earthquake; the jailer converts; Paul claims citizenship
+E18 | Polycarp | Philippians 3.2; 11.3 | - | agrees | "the blessed and glorious Paul, when he was among you ... taught accurately ... and when absent wrote you letters"; he laboured among them
+
+E19 | 1 Thessalonians | 1Th 1:5-10; 1Th 2:9, 14; 1Th 2:17-18 | - | letters | the Thessalonians "turned to God from idols" (gentiles); he worked night and day there; they suffered from their own countrymen; "Satan hindered us" from returning
+E19 | Acts | Ac 17:1-14 | Jason, Silas | differs | three sabbaths in the synagogue; converts are Jews, devout Greeks and leading women; the mob attacks Jason's house; flight to Beroea. Acts implies a few weeks; Philippians says help was sent to him there more than once (Php 4:16)
+E19 | Inscriptions | inscriptions of Thessalonica | - | setting | the city's magistrates are called "politarchs" in its inscriptions, the title Acts uses (Ac 17:6, 8)
+
+E20 | 1 Thessalonians | 1Th 3:1-2 | Timothy | letters | "we thought it good to be left behind at Athens alone, and we sent Timothy"
+E20 | Acts | Ac 17:14-16; Ac 18:5 | Silas, Timothy | differs | Silas and Timothy stay in Beroea while Paul waits alone at Athens; they rejoin him only at Corinth. In 1 Thessalonians Timothy was with him at Athens and was sent back
+E20 | Acts | Ac 17:16-34 | Dionysius the Areopagite, Damaris | not in letters | debates with Epicureans and Stoics; the Areopagus speech on the "unknown god"; a few believe
+
+E21 | Undisputed letters | 1Co 2:1-5; 1Co 1:14-16; 1Co 16:15; 2Co 11:7-9 | Crispus, Gaius, Stephanas | letters | came "in weakness and in fear and much trembling"; baptized Crispus, Gaius and the household of Stephanas, "the first fruits of Achaia"; took no money from them, supplied by brothers from Macedonia
+E21 | 1 Corinthians | 1Co 1:1 | Sosthenes | letters | "Sosthenes our brother" co-sends 1 Corinthians
+E21 | Romans | Ro 16:23 | Gaius, Erastus | letters | from Corinth: Gaius is host to Paul and the whole church; "Erastus the city treasurer" sends greetings
+E21 | Acts | Ac 18:1-11 | Aquila, Priscilla, Crispus, Titius Justus, Silas, Timothy | agrees | lodges with Aquila and Priscilla, Jews lately come from Italy "because Claudius had ordered all Jews to leave Rome"; Crispus the synagogue ruler believes; stays eighteen months
+E21 | Acts | Ac 18:12-17 | Gallio, Sosthenes | not in letters | the Jews bring Paul before the proconsul Gallio, who dismisses the case; Sosthenes, the synagogue ruler, is beaten
+E21 | Delphi inscription | Fouilles de Delphes III 4:286; SIG3 801 D | Gallio | setting | a letter of Claudius, dated by his 26th acclamation as emperor to 52, names "Junius Gallio ... proconsul" of Achaia; his year of office was 51-52 or 52-53. The main anchor for Paul's chronology
+E21 | Suetonius | Claudius 25.4 | - | setting | Claudius "expelled from Rome the Jews, who were constantly rioting at the instigation of Chrestus"; Orosius (5th century, 7.6.15) dates it to 49
+E21 | Corinth inscription | Erastus pavement inscription | Erastus | setting | "Erastus, in return for his aedileship, laid [this pavement] at his own expense"; both its date and whether he is the "city treasurer" of Ro 16:23 are disputed
+
+E22 | 1 Corinthians | 1Co 1:12; 1Co 3:4-6; 1Co 16:12 | Apollos | letters | factions "I belong to Paul", "I belong to Apollos"; "I planted, Apollos watered"; Apollos unwilling to come now
+E22 | Acts | Ac 18:24-28; Ac 19:1 | Apollos, Priscilla, Aquila | agrees | Apollos, an eloquent Alexandrian Jew, taught by Priscilla and Aquila at Ephesus, goes on to Corinth
+E22 | Titus | Tit 3:13 | Apollos | agrees | "speed Zenas the lawyer and Apollos on their way"
+E22 | 1 Clement | 47.3 | Apollos, Cephas | agrees | Paul wrote to the Corinthians "about himself and Cephas and Apollos, because even then you had made factions"
+
+E23 | Undisputed letters | 1Co 16:8-9; 1Co 15:32; 2Co 1:8-10 | - | letters | staying at Ephesus until Pentecost, "a wide door ... and many adversaries"; "I fought with beasts at Ephesus"; an affliction in Asia so severe "we despaired of life itself ... we had received the sentence of death"
+E23 | Acts | Ac 18:19-21; Ac 19:1-40 | Tyrannus, Demetrius, Gaius, Aristarchus | differs | two years and more at Ephesus, teaching in the hall of Tyrannus; healing handkerchiefs; the sons of Sceva; magic books burned; the riot of Demetrius the silversmith, from which Paul is kept away. Acts has no imprisonment or mortal danger for Paul at Ephesus
+E23 | Acts | Ac 20:17-38 | - | not in letters | farewell speech to the Ephesian elders at Miletus: "you will not see my face again"
+E23 | Inscriptions | inscriptions of Ephesus | - | setting | the cult of Artemis, silversmiths' guilds, the great theatre and the provincial "Asiarchs" (Ac 19:31) are all attested at Ephesus
+E23 | Acts of Paul | Ephesus episode (Hamburg papyrus) | - | differs | Paul is thrown to a lion in the stadium; the lion, which Paul had baptized, will not harm him: a literal reading of "I fought with beasts at Ephesus"
+
+E24 | Undisputed letters | 2Co 6:5; 2Co 11:23; Php 1:7, 13-14; Php 4:22; Phm 1:1, 9-10, 23; Ro 16:7 | Epaphras, Andronicus, Junia | letters | "in prisons far more" than his rivals (written before the arrest in Acts 21); his chains are known "throughout the whole praetorium"; "those of Caesar's household" greet; a prisoner with Epaphras; Andronicus and Junia "my fellow prisoners"
+E24 | Acts | Ac 16:23-40; Ac 21:33-28:31 | - | differs | one night in prison at Philippi before his last arrest, then custody in Jerusalem, Caesarea and Rome; none of the earlier imprisonments of 2 Cor 11:23
+E24 | 1 Clement | 5.6 | - | agrees | "seven times he bore chains, was exiled, was stoned"
+E24 | Disputed letters | Col 4:3, 10, 18; Eph 3:1; Eph 4:1; Eph 6:20; 2Ti 1:8, 16-17; 2Ti 2:9 | Aristarchus, Onesiphorus | agrees | "remember my chains"; "the prisoner of Christ Jesus"; "an ambassador in chains"
+
+E25 | Philemon | Phm 1:1-25 | Onesimus, Philemon, Apphia, Archippus, Epaphras, Mark, Aristarchus, Demas, Luke | letters | from prison Paul sends back Onesimus, Philemon's slave, who has become his "child" in prison, asking Philemon to receive him "as a beloved brother"
+E25 | Colossians | Col 4:7-17 | Tychicus, Onesimus, Aristarchus, Mark, Epaphras, Luke, Demas, Archippus | agrees | Tychicus and Onesimus, "one of you", are sent to Colossae; the same people send greetings; a letter "from Laodicea"
+
+E26 | 1 Corinthians | 1Co 1:11; 1Co 5:9; 1Co 7:1; 1Co 16:17 | Chloe, Stephanas, Fortunatus, Achaicus | letters | reports from "Chloe's people"; an earlier letter of Paul; their letter to him; Stephanas, Fortunatus and Achaicus have arrived
+E26 | 2 Corinthians | 2Co 2:1; 2Co 12:14; 2Co 13:1-2 | - | letters | a "painful visit"; "this is the third time I am ready to come to you"
+E26 | 2 Corinthians | 2Co 2:3-4; 2Co 7:5-8, 13-15 | Titus | letters | a letter written "with many tears"; Titus brings him good news in Macedonia
+E26 | Acts | Ac 18:1-18; Ac 20:2-3 | - | differs | two stays in Greece (the founding, and three months on the last journey); no painful visit between, no tearful letter; Acts never names Titus
+E26 | 1 Clement | 47.1-3 | - | agrees | "take up the letter of the blessed Paul the apostle"; it is still read at Corinth
+E26 | Acts of Paul | 3 Corinthians | Stephanas, Simon, Cleobius | not in letters | the Corinthians write to Paul in prison at Philippi about the teachers Simon and Cleobius; Paul replies that the flesh will rise. A forged exchange
+
+E27 | Undisputed letters | Ga 1:6-9; Ga 2:4; Ga 5:12; Ga 6:12-13; 2Co 11:4-5, 13-15; 2Co 12:11; Php 3:2; Ro 3:8; Ro 16:17-18 | - | letters | rival teachers preach "another gospel"; "false brothers"; "super-apostles", "false apostles"; "beware of the dogs"; some slander him as saying "let us do evil that good may come"
+E27 | Acts | Ac 15:1, 5; Ac 21:20-24 | James | agrees | men from Judea and believing Pharisees demand circumcision; thousands of believing Jews "zealous for the law" have heard that he teaches Jews to abandon Moses
+E27 | Irenaeus | Against Heresies 1.26.2 | - | agrees | the Ebionites "repudiate the apostle Paul, calling him an apostate from the law"
+E27 | 2 Peter | 2Pe 3:15-16 | - | not in letters | his letters contain things "hard to understand, which the ignorant and unstable twist"
+
+E28 | Undisputed letters | Ga 2:10; 1Co 16:1-4; 2Co 8:1-9:15; Ro 15:25-28, 31 | - | letters | a collection from Galatia, Macedonia and Achaia for "the poor among the saints at Jerusalem"; chosen delegates to carry it; fear that it may not be acceptable and of "the unbelievers in Judea"
+E28 | Acts | Ac 20:4 | Sopater, Aristarchus, Secundus, Gaius, Timothy, Tychicus, Trophimus | agrees | seven men from Beroea, Thessalonica, Derbe and Asia travel with him to Jerusalem: a delegation like that of 1 Cor 16:3-4, though Acts does not say why they travel
+E28 | Acts | Ac 24:17 | Felix | agrees | "after several years I came to bring alms to my nation": Acts' only mention of the collection
+
+E29 | Romans | Ro 1:10-15; Ro 15:19-24, 28 | - | letters | has preached "from Jerusalem and as far round as Illyricum"; does not build on another's foundation; plans to see Rome on the way to Spain
+E29 | Acts | Ac 19:21; Ac 23:11 | - | agrees | "I must also see Rome"; "you must bear witness also at Rome". Acts never mentions Illyricum or Spain
+E29 | 1 Clement | 5.7 | - | not in letters | "having taught righteousness to the whole world and having come to the limit of the west": Spain, or Rome seen from the east
+E29 | Muratorian list | lines 37-39 | - | not in letters | Luke's Acts leaves out "the departure of Paul from the city [Rome] to Spain"
+E29 | Acts of Peter | Vercelli Acts 1-3 | - | not in letters | after a vision Paul leaves Rome for Spain, before Peter arrives
+
+E30 | Romans | Ro 15:25; Ro 15:30-32 | - | letters | going to Jerusalem; asks for prayer to be "rescued from the unbelievers in Judea"
+E30 | Acts | Ac 20:6-21:16 | Eutychus, Agabus, Philip the evangelist | agrees | Troas (Eutychus raised), Miletus, Tyre, Caesarea; Agabus foretells his arrest; a "we" passage
+E30 | Acts | Ac 21:17-26 | James | not in letters | James and the elders ask him to pay for four men's Nazirite vows in the Temple, to show he keeps the law (compare 1 Cor 9:20, "to the Jews I became as a Jew")
+
+E31 | Acts | Ac 21:27-36 | Trophimus, Claudius Lysias | not in letters | Jews from Asia accuse him of bringing Trophimus the Ephesian into the Temple; a mob; the tribune rescues him
+E31 | Temple warning inscriptions | Josephus, War 5.193-194; Antiquities 15.417 | - | setting | notices on the Temple barrier forbade gentiles to pass on pain of death; two have been found (1871, 1935)
+E31 | Acts | Ac 21:38 | Claudius Lysias | not in letters | the tribune asks "are you not the Egyptian who stirred up a revolt and led 4,000 men of the sicarii into the wilderness?"
+E31 | Josephus | War 2.261-263; Antiquities 20.169-172 | - | setting | an Egyptian false prophet under Felix led a crowd (30,000 in War) to the Mount of Olives and escaped; the numbers differ from Acts
+E31 | Acts | Ac 23:1-5 | Ananias the high priest | not in letters | the high priest Ananias orders him struck; "God is going to strike you, you whitewashed wall"
+E31 | Josephus | Antiquities 20.103, 131, 205-213 | Ananias the high priest | setting | Ananias son of Nedebaeus, high priest c. 47-59
+
+E32 | Acts | Ac 23:23-24:27 | Felix, Drusilla, Tertullus | not in letters | sent to the governor Felix at Caesarea; prosecuted by Tertullus; Felix and his Jewish wife Drusilla hear him; Felix hopes for a bribe and holds him two years
+E32 | Tacitus | Annals 12.54; Histories 5.9; Josephus, Antiquities 20.137-144 | Felix, Drusilla | setting | Felix, a freedman, governor of Judea c. 52-60, married Drusilla, sister of Agrippa II
+E32 | Acts | Ac 25:1-26:32 | Festus, Agrippa II, Bernice | not in letters | Festus succeeds Felix; Paul appeals to Caesar; King Agrippa and Bernice hear him: "this man could have been set free if he had not appealed"
+E32 | Josephus | Antiquities 20.182-197; War 2.271 | Festus, Agrippa II, Bernice | setting | Porcius Festus, governor c. 60-62, died in office; Agrippa II and his sister Bernice (also Tacitus, Histories 2.2)
+
+E33 | 2 Corinthians | 2Co 11:25-26 | - | letters | "three times I was shipwrecked; a night and a day I spent in the open sea", all before the Rome voyage of Acts
+E33 | Acts | Ac 27:1-28:10 | Julius, Aristarchus, Publius | not in letters | sails under the centurion Julius of the Augustan cohort; storm; shipwreck on Malta; a viper; heals the father of Publius, "the chief man of the island". Acts reports none of the three earlier shipwrecks
+E33 | Inscriptions | CIG 5754 and other inscriptions of Malta and Gozo | Publius | setting | "first" (protos) is attested as an official title in the Maltese islands
+
+E34 | Philippians | Php 1:12-14; Php 4:22 | - | letters | his imprisonment has become known "throughout the whole praetorium"; "those of Caesar's household" greet (Rome, if Philippians was written there)
+E34 | Acts | Ac 28:14-31 | - | not in letters | met by believers at the Forum of Appius; two years in rented lodging under guard, preaching "unhindered"; Acts ends without his trial or death
+E34 | 2 Timothy | 2Ti 1:16-17; 2Ti 4:16-17 | Onesiphorus | not in letters | Onesiphorus searched for him in Rome; at his first defence no one stood by him; "rescued from the lion's mouth"
+E34 | Irenaeus | Against Heresies 3.1.1; 3.3.2-3 | Peter, Linus | conflicts | Peter and Paul preached at Rome and founded the church there, then handed the office of bishop to Linus. Romans is written to an established church Paul has never visited (Ro 1:10-13; Ro 15:20-23)
+E34 | Dionysius of Corinth | in Eusebius, Church History 2.25.8 | Peter | conflicts | Peter and Paul both planted the church at Corinth and taught together in Italy. In 1 Corinthians Paul planted it and Apollos watered (1Co 3:6)
+
+E35 | Philippians | Php 1:20-24; Php 2:17 | - | letters | may live or die; "even if I am to be poured out as a drink-offering"; the letters record no death
+E35 | Acts | Ac 20:25, 38; Ac 28:30-31 | - | not in letters | tells the Ephesian elders they will not see his face again; ends with him alive and preaching in Rome
+E35 | 2 Timothy | 2Ti 4:6-8 | - | not in letters | "I am already being poured out ... the time of my departure has come; I have finished the race"
+E35 | 1 Clement | 5.5-7 | - | not in letters | "he bore witness before the rulers, and so departed from the world"
+E35 | Ignatius | Ephesians 12.2 | - | not in letters | the Ephesians are "fellow initiates with Paul ... in whose footsteps may I be found when I reach God" (Ignatius on his own way to martyrdom)
+E35 | Dionysius of Corinth | in Eusebius, Church History 2.25.8 | Peter | not in letters | Peter and Paul were martyred at the same time in Italy
+E35 | Gaius of Rome | in Eusebius, Church History 2.25.7 | Peter | not in letters | "I can show you the trophies of the apostles: on the Vatican and on the Ostian Way"
+E35 | Tertullian | Prescription against Heretics 36 | Peter | not in letters | at Rome "Paul is crowned with a death like John's" (beheading)
+E35 | Acts of Paul | Martyrdom of Paul | Nero, Patroclus | not in letters | Nero has Paul beheaded; milk spurts from his neck; he appears to Nero afterwards
+
+E36 | Undisputed letters | 2Co 10:1, 10; 2Co 11:6; 2Co 12:7-9; Ga 4:13-15; Ga 6:11 | - | letters | "his bodily presence is weak, and his speech of no account"; "unskilled in speech"; a "thorn in the flesh"; ill when he first came to Galatia; "see with what large letters I write with my own hand"
+E36 | Acts | Ac 14:12; Ac 17:22-31; Ac 26:24 | - | differs | the chief speaker, hailed as Hermes; a polished orator at the Areopagus; "your great learning is driving you mad". Acts' eloquent Paul against the letters' "unskilled in speech" (which may be modesty)
+E36 | Acts of Paul | Acts of Paul and Thecla 3 | Onesiphorus | not in letters | "a man small in size, bald-headed, bow-legged, well built, with eyebrows meeting and a rather long nose, full of grace": the only physical description
+
+E37 | Undisputed letters | 2Co 12:1-4, 12; Ga 2:2; Ro 15:18-19 | - | letters | caught up to the third heaven and into paradise fourteen years before; went to Jerusalem "by revelation"; "the signs of an apostle ... signs and wonders and mighty works"
+E37 | Acts | Ac 13:9-11; Ac 14:8-10; Ac 16:9; Ac 16:16-18; Ac 18:9-10; Ac 19:11-12; Ac 20:9-12; Ac 28:3-6, 8-9 | - | agrees | blinds a magician; heals a lame man; visions; an exorcism; handkerchiefs that heal; raises Eutychus; survives a viper; heals the sick on Malta
+
+E38 | 1 Corinthians | 1Co 7:7-8; 1Co 9:5 | Cephas | letters | "I wish that all were as I myself am"; good for the unmarried "to remain as I am"; he has the right to take along a believing wife "as the other apostles and the brothers of the Lord and Cephas", but does not
+E38 | Clement of Alexandria | Stromata 3.6.53 | - | differs | Paul had a wife, the "yokefellow" of Php 4:3, but did not take her about with him
+E38 | Acts of Paul | Acts of Paul and Thecla 5-6; 7-12 | Thecla, Thamyris | differs | Paul preaches "blessed are the continent"; Thecla breaks off her engagement to Thamyris. The letters allow marriage (1Co 7:2, 9, 28)
+
+E39 | Undisputed letters | Ga 6:11; 1Co 16:21; Phm 1:19; Ro 16:22; 1Co 5:9; 2Co 10:9-11 | Tertius | letters | signs greetings "with my own hand"; "I Tertius, who wrote this letter"; an earlier letter to Corinth; "his letters are weighty and strong"
+E39 | Disputed letters | 2Th 2:2; 2Th 3:17; Col 4:16 | - | not in letters | warns of a letter "as if from us"; his signature is "the sign in every letter"; a letter "from Laodicea"
+E39 | Acts | Ac 15:23-29 | - | differs | Acts never mentions Paul writing letters; the only letter in Acts is the council's
+E39 | 1 Clement | 47.1-3 | - | agrees | Paul wrote to the Corinthians about himself, Cephas and Apollos
+E39 | Ignatius | Ephesians 12.2 | - | agrees | Paul mentions the Ephesians "in every letter"
+E39 | Polycarp | Philippians 3.2 | - | agrees | Paul, when absent, "wrote you letters"
+E39 | 2 Peter | 2Pe 3:15-16 | - | agrees | "in all his letters", set beside "the other scriptures"
+E39 | Marcion | Tertullian, Against Marcion 5; Irenaeus, Against Heresies 1.27.2 | - | agrees | an edition of ten letters, Galatians first, without the Pastorals; Irenaeus says Marcion cut them
+E39 | Muratorian list | lines 47-68 | - | agrees | Paul wrote to seven churches, and to Philemon, Titus and twice to Timothy; letters to the Laodiceans and the Alexandrians were forged in his name for Marcion's sect
+
+E40 | Philemon | Phm 1:24 | Luke | letters | "Luke, my fellow worker"
+E40 | Disputed letters | Col 4:14; 2Ti 4:11 | Luke | agrees | "Luke the beloved physician"; "only Luke is with me"
+E40 | Acts | Ac 16:10-17; Ac 20:5-21:18; Ac 27:1-28:16 | - | not in letters | the "we" passages: the narrator travels with Paul (a real companion, a source, or a literary device; debated)
+E40 | Irenaeus | Against Heresies 3.1.1; 3.14.1 | Luke | agrees | Luke, a follower of Paul, wrote down the gospel Paul preached and was "inseparable" from him
+
+E41 | 1 Corinthians | 1Co 1:12; 1Co 3:22; 1Co 9:5; 1Co 15:5 | Cephas | letters | a Cephas party at Corinth; Cephas travels with his wife; the risen Jesus appeared first to Cephas
+E41 | Acts | Ac 15:7-11 | Peter | differs | Peter last appears at the council, on Paul's side; Acts never tells of the Antioch clash (Ga 2:11-14)
+E41 | 1 Clement | 5.3-7 | Peter | differs | Peter and Paul as the two great martyr apostles of "our own generation". The letters show partners who quarrelled
+E41 | Ignatius | Romans 4.3 | Peter | differs | "I do not command you as Peter and Paul did: they were apostles, I am a convict"
+
+E42 | Romans | Ro 16:1-23 | Phoebe, Prisca, Aquila, Epaenetus, Mary, Andronicus, Junia, Ampliatus, Urbanus, Stachys, Apelles, Herodion, Tryphaena, Tryphosa, Persis, Rufus, Asyncritus, Phlegon, Hermes, Patrobas, Hermas, Philologus, Julia, Nereus, Olympas, Timothy, Lucius, Jason, Sosipater, Tertius, Gaius, Erastus, Quartus | letters | Phoebe, a deacon of Cenchreae, carries the letter; greetings to some 26 people at Rome, including Prisca and Aquila who "risked their necks" for him, Andronicus and Junia "notable among the apostles", and Rufus' mother, "his mother and mine"
+E42 | Acts | Ac 18:2, 18, 26; Ac 17:5-9; Ac 20:4 | Priscilla, Aquila, Jason, Sopater, Gaius | agrees | Priscilla and Aquila; Jason of Thessalonica; Sopater of Beroea; Gaius
+E42 | 2 Timothy | 2Ti 4:19 | Prisca, Aquila, Onesiphorus | agrees | "greet Prisca and Aquila and the household of Onesiphorus"
+
+E43 | Philippians | Php 2:20-21 | Timothy | letters | "I have no one like him ... they all seek their own interests"
+E43 | Disputed letters | 2Ti 1:15; 2Ti 4:10, 14; 1Ti 1:20 | Phygelus, Hermogenes, Demas, Alexander, Hymenaeus | not in letters | "all in Asia turned away from me", Phygelus and Hermogenes among them; "Demas, in love with this present world, has deserted me"; Alexander the coppersmith did him great harm
+E43 | Acts of Paul | Acts of Paul and Thecla 1, 12-16 | Demas, Hermogenes, Thamyris | not in letters | Demas and Hermogenes travel with Paul as hypocrites and help Thamyris have him arrested
