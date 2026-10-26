@@ -43,3 +43,8 @@ letter_period/papyri_trend_letters.json
 letter_period/tags_treebank.json
 letter_period/tags_stanza.json
 paul_lineup/lineup_texts.json
+
+canonical-latinLit/
+marcion_text/adv_marc_5.txt
+rhetoric_across/vulgate/
+rhetoric_across/laodiceans.txt
