@@ -1,0 +1,24 @@
+# The Greek witnesses: where each one's own words are.
+#   witness | tier | file (from the kit folder) | first ref | last ref | starts with | ends with
+# Refs are the edition's book.chapter.section numbers; the range runs from the first to the last, inclusive.
+# "starts with" and "ends with" cut the words of a fragment out of the writer quoting it (Clement, Epiphanius),
+# so that the quoting writer's own words are not counted; "-" means the whole range.
+Valentinus | 1 | canonical-greekLit/data/tlg0555/tlg004/tlg0555.tlg004.perseus-grc2.xml | 2.8.36 | 2.8.36 | καὶ ὡσπερεὶ φόβος | ταχὺ τὸ ἔργον ἠφάνισαν
+Valentinus | 1 | canonical-greekLit/data/tlg0555/tlg004/tlg0555.tlg004.perseus-grc2.xml | 2.20.114 | 2.20.114 | εἷς δέ ἐστιν ἀγαθός | ὅτι ὄψεται τὸν θεόν
+Valentinus | 1 | canonical-greekLit/data/tlg0555/tlg004/tlg0555.tlg004.perseus-grc2.xml | 3.7.59 | 3.7.59 | ὑπομείνας ἐγκρατὴς ἦν | αὐτὸς οὐκ εἶχεν
+Valentinus | 1 | canonical-greekLit/data/tlg0555/tlg004/tlg0555.tlg004.perseus-grc2.xml | 4.13.89 | 4.13.89 | ἀπ’ ἀρχῆς ἀθάνατοί | τῆς φθορᾶς ἁπάσης
+Valentinus | 1 | canonical-greekLit/data/tlg0555/tlg004/tlg0555.tlg004.perseus-grc2.xml | 4.13.89 | 4.13.90 | ὁπόσον ἐλάττων | εἰς πίστιν τοῦ πεπλασμένου
+Valentinus | 1 | canonical-greekLit/data/tlg0555/tlg004/tlg0555.tlg004.perseus-grc2.xml | 6.6.52 | 6.6.52 | πολλὰ τῶν γεγραμμένων | φιλῶν αὐτόν
+Basilides and Isidore | 1 | canonical-greekLit/data/tlg0555/tlg004/tlg0555.tlg004.perseus-grc2.xml | 4.12.81 | 4.12.82 | φημὶ γάρ τοι | προνοοῦν ἐρῶ
+Basilides and Isidore | 1 | canonical-greekLit/data/tlg0555/tlg004/tlg0555.tlg004.perseus-grc2.xml | 4.12.83 | 4.12.83 | ἐὰν μέντοι παραλιπὼν | δίκαιον δὲ τὸν θεόν
+Basilides and Isidore | 1 | canonical-greekLit/data/tlg0555/tlg004/tlg0555.tlg004.perseus-grc2.xml | 2.20.113 | 2.20.114 | ἐὰν γάρ τινι πεῖσμα | φανῆναι κρατοῦντας
+Basilides and Isidore | 1 | canonical-greekLit/data/tlg0555/tlg004/tlg0555.tlg004.perseus-grc2.xml | 3.1.2 | 3.1.3 | ἀντέχου τοίνυν | φυσικὸν δὲ τὸ τῶν ἀφροδισίων, οὐκ ἀναγκαῖον δέ
+Basilides and Isidore | 1 | canonical-greekLit/data/tlg0555/tlg004/tlg0555.tlg004.perseus-grc2.xml | 6.6.53 | 6.6.53 | φασὶ δὲ οἱ Ἀττικοὶ | τῆς ἐνσωματώσεως
+Basilides and Isidore | 1 | canonical-greekLit/data/tlg0555/tlg004/tlg0555.tlg004.perseus-grc2.xml | 6.6.53 | 6.6.53 | καὶ μή τις οἰέσθω | κατ’ αὐτοὺς σοφῷ
+Ptolemy | 1 | First1KGreek/data/tlg2021/tlg002/tlg2021.tlg002.1st1K-grc1.xml | 33.3.1 | 33.7.10 | - | -
+Justin | 1 | First1KGreek/data/tlg0645/tlg001/tlg0645.tlg001.1st1K-grc1.xml | - | - | - | -
+Justin | 1 | First1KGreek/data/tlg0645/tlg002/tlg0645.tlg002.perseus-grc2.xml | - | - | - | -
+Justin | 1 | First1KGreek/data/tlg0645/tlg003/tlg0645.tlg003.perseus-grc2.xml | - | - | - | -
+Basilidians in Hippolytus | 2 | First1KGreek/data/tlg2115/tlg060/tlg2115.tlg060.opp-grc1.xml | 7.20 | 7.27 | - | -
+Basilidians reported by Clement | 2 | canonical-greekLit/data/tlg0555/tlg004/tlg0555.tlg004.perseus-grc2.xml | 3.1.1 | 3.1.2 | πυθομένων φασὶ ἀποστόλων | μερίζεται τῆς ἐλπίδος
+Theodotus | 2 | First1KGreek/data/tlg0555/tlg007/tlg0555.tlg007.1st1K-grc1.xml | - | - | - | -

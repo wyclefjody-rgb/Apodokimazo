@@ -1,0 +1,144 @@
+# Candidates in CANDIDATES.md that are not coded as uses of Paul, with the reason.
+#   witness | place | candidate | reason
+Ptolemy | Pan 33.3.6 | mention "αποστολοσ": ... τα τε παντα δι αυτου γεγονεναι και χωρισ αυτου γεγονεναι ουδεν ο αποστολοσ προαποστερησασ την των ψευδηγορουντων ανυποστατον σοφιαι και ου φθοροποιου θεου αλλα δικαιου ... | "the apostle" here quotes John 1:3, not Paul
+Ptolemy | Pan 33.5.15 | mention "παυλοσ": ... το παπα δε ομοιωσ και τα αζυμα οτι εικονεσ ησαν δηλοι και παυλοσ ο αποστολοσ το δε παπα ημων λεγων ετυθη χριστοσ και ινα ητε ... | the mention belongs to the use coded at this place
+Ptolemy | Pan 33.5.15 | mention "αποστολοσ": ... δε ομοιωσ και τα αζυμα οτι εικονεσ ησαν δηλοι και παυλοσ ο αποστολοσ το δε παπα ημων λεγων ετυθη χριστοσ και ινα ητε φησιν αζυμοι ... | the mention belongs to the use coded at this place
+Ptolemy | Pan 33.6.6 | mention "αποστολοσ": ... ου τα τησ εικονοσ ταυτα δε και οι μαθηται αυτου και ο αποστολοσ παυλοσ εδειξε το μεν των εικονων ωσ ηδη ειπομεν δια του πασχα ... | the mention belongs to the use coded at this place
+Ptolemy | Pan 33.6.6 | mention "παυλοσ": ... τα τησ εικονοσ ταυτα δε και οι μαθηται αυτου και ο αποστολοσ παυλοσ εδειξε το μεν των εικονων ωσ ηδη ειπομεν δια του πασχα και ... | the mention belongs to the use coded at this place
+Justin | 1 Apol 16 | δια τησ υπομονησ και ~ Ro 15:4 | Matthew 5:37
+Justin | 1 Apol 16 | το ναι ναι και το ου ου ~ 2Co 1:17 (also elsewhere in the NT) | Matthew 5:37
+Justin | 1 Apol 17 | και τα του θεου ~ 1Co 2:11 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | 1 Apol 19 | ο θεοσ δια του ~ 1Co 2:10 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | 1 Apol 28 | ο χριστοσ και γαρ ~ 1Co 12:12 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | 1 Apol 33 | του σωτηροσ ημων ιησου χριστου ~ 2Ti 1:10, Tit 2:13 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | 1 Apol 44 | και παντων των εν ~ 1Ti 2:2 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | 1 Apol 49 | ου μονον δε αλλα και ~ Ro 5:3, Ro 5:11, Ro 8:23, Ro 9:10, 2Co 8:19 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | 1 Apol 59 | ο θεοσ τον κοσμον ~ Ro 3:6 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | 1 Apol 60 | του υιου του θεου ~ Ga 2:20, Eph 4:13 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | 1 Apol 61 | του σωτηροσ ημων ιησου χριστου και ~ 2Ti 1:10, Tit 2:13, Ro 15:30, 2Th 2:1, 1Ti 6:3 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | 1 Apol 61 | και γαρ ο χριστοσ ~ Ro 15:3 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | 1 Apol 63 | του θεου οσ και ~ Ro 8:34, 2Co 3:5 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | 1 Apol 65 | δια του ονοματοσ του ~ 1Co 1:10 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | 1 Apol 66 | τουτο ποιειτε εισ την ~ 1Co 11:24 (also elsewhere in the NT) | the Last Supper words, also in Luke 22:19
+Justin | 1 Apol 67 | του υιου αυτου ιησου χριστου ~ 1Co 1:9 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | 1 Apol 12 | mention "αποστολοσ": ... ο ημετεροσ διδασκαλοσ και του πατροσ παντων και δεσποτου θεου υιοσ και αποστολοσ ων ιησουσ χριστοσ αφ ου και το χριστιανοι επονομαζεσθαι εσχηκαμεν οθεν και ... | Jesus called "apostle" (as in Hebrews 3:1), not Paul
+Justin | 1 Apol 42 | mention "αποστολων": ... και εβασιλευσεν ανελθων εισ ουρανον και επι τοισ παρ αυτου δια των αποστολων εν τοισ πασιν εθνεσι κηρυχθεισιν ευφροσυνη εστι προσδοκωντων την κατηγγελμενην υπ αυτου ... | the apostles (the Twelve), not Paul
+Justin | 1 Apol 45 | mention "αποστολοι": ... σοι εξ ιερουσαλημ προαγγελτικον του λογου του ισχυρου ον απο ιερσυσαλημ οι αποστολοι αιτοι εξελθοντεσ πανταχου εκηρυξαν και καιπερ θανατου ορισθεντοσ κατα των διδασκοντων η ... | the apostles (the Twelve), not Paul
+Justin | 1 Apol 49 | mention "αποστολοι": ... μηδεποτε μηδεν ακουσαντεσ περι τοι χριστου μεχρισ ου οι απο ιερουσαλημ εξελθοντεσ αποστολοι αυτου εμηνυσαν τα περι αυτου και τασ προφητειασ παρεδωκαν πληρωθεντεσ χαρασ και ... | the apostles (the Twelve), not Paul
+Justin | 1 Apol 50 | mention "αποστολοι": ... παρ αυτου λαβοντεσ και εισ παν γενοσ ανθρωπων ελθοντεσ ταυτα εδιδαξαν και αποστολοι προσηγορευθησαν ινα δε μηνυση ημιν το προφητικον πνευμα οτι ο ταυτα πασχων ... | the apostles (the Twelve), not Paul
+Justin | 1 Apol 53 | mention "αποστολων": ... ιουδαιων ερημωσιν και τουσ απο παντοσ εθνουσ ανθρωπων δια τησ παρα των αποστολων αυτου διδαχησ πεισθεντασ και παραιτησαμενουσ τα παλαια εν οισ πλανωμενοι ανεστραφησαν εθη ... | the apostles (the Twelve), not Paul
+Justin | 1 Apol 61 | mention "αποστολων": ... γαρ στομα κυριου ελαλησε ταυτα και λογον δε εισ τουτο παρα των αποστολων εμαθομεν τουτον επειδη την πρωτην γενεσιν ημων αγνοουντεσ κατ αναγκην γεγεννημεθα εξ ... | the apostles (the Twelve), not Paul
+Justin | 1 Apol 63 | mention "αποστολοσ": ... θεου εστιν ο υιοσ αυτου ωσ προεφημεν και αγγελοσ δε καλειται και αποστολοσ αυτοσ γαρ απαγγελλει οσα δει γνωσθηναι και αποστελλεται μηνυσων οσα αγγελλεται ωσ ... | Jesus called "apostle" (as in Hebrews 3:1), not Paul
+Justin | 1 Apol 63 | mention "αποστολοσ": ... παντα αλλ εισ αποδειξιν γεγονασιν οιδε οι λογοι οτι υιοσ θεου και αποστολοσ ιησουσ ο χριστοσ εστι προτερον λογοσ ων και εν ιδεα πυρι σ ... | Jesus called "apostle" (as in Hebrews 3:1), not Paul
+Justin | 1 Apol 63 | mention "αποστολοσ": ... μωυσει του λαλησαντοσ αυτω οντοσ υιου του θεου οσ και αγγελοσ και αποστολοσ κεκληται δικαιωσ ελεγχονται και δια του προφητικου πνευματοσ και δι αυτου του ... | Jesus called "apostle" (as in Hebrews 3:1), not Paul
+Justin | 1 Apol 66 | mention "αποστολοι": ... εκεινου του σαρκοποιηθεντοσ ιησου και σαρκα και αιμα εδιδαχθημεν ειναι οι γαρ αποστολοι εν τοισ γενομενοισ υπ αυτων απομνημονευμασιν α καλειται ευαγγελια ουτωσ παρεδωκαν εντεταλθαι ... | the Last Supper words, also in Luke 22:19
+Justin | 1 Apol 67 | mention "αποστολων": ... η αγρουσ μενοντων επι το αυτο συνελευσισ γινεται και τα απομνημονευματα των αποστολων η τα συγγραμματα των προφητων αναγινωσκεται μεχρισ εγχωρει ειτα παυσαμενου του αναγινωσκοντοσ ... | the apostles (the Twelve), not Paul
+Justin | 1 Apol 67 | mention "αποστολοισ": ... αυτον και τη μετα την κρονικην ητισ εστιν ηλιου ημερα φανεισ τοισ αποστολοισ αυτου και μαθηταισ εδιδαξε ταυτα απερ εισ επισκεψιν και υμιν ανεδωκαμεν και ... | the apostles (the Twelve), not Paul
+Justin | Dial 13.1 | δια του αιματοσ του χριστου ~ Col 1:20, 1Co 10:16 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 14.1 | τησ γνωσεωσ του θεου ~ 2Co 10:5 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 15.7 | τησ καρδιασ υμων ωσ ~ Eph 6:5 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 16.5 | ο θεοσ δια του ~ 1Co 2:10 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 17.4 | αγαπην του θεου και ~ 2Th 3:5 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 20.2 | υπο του θεου οτι ~ 2Co 1:4 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 20.3 | πρωτον μεν γαρ οτι ~ Ro 3:2 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 29.3 | και εν ταυτη τη ~ 2Co 8:7 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 32.1 | τω νομω του θεου ~ Ro 7:22 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 32.5 | υπο του θεου οτι ~ 2Co 1:4 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 39.2 | δια του ονοματοσ του ~ 1Co 1:10 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 41.1 | τασ αρχασ και τασ εξουσιασ ~ Col 2:15 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 41.4 | ιησου χριστου του κυριου ημων ~ Ro 1:4, Ro 5:21, Ro 7:25, 1Co 1:9 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 46.7 | ο θεοσ δια του ~ 1Co 2:10 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 49.2 | τον λογον του θεου ~ 2Co 2:17, 2Co 4:2, Col 1:25 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 50.2 | του κυριου ημων ιησου χριστου ~ Ro 5:1, Ro 5:11, Ro 15:6, Ro 15:30, Ro 16:20, Ro 16:24 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 52.4 | δια τησ πιστεωσ τησ ~ Col 2:12 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 53.2 | ο κυριοσ ημων ιησουσ χριστοσ ~ 1Th 3:11, 2Th 2:16 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 54.2 | ο χριστοσ αλλ ουκ ~ 1Co 10:4 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 58.4 | ο λογοσ του θεου ~ Ro 9:6, 1Co 14:36, 2Ti 2:9, Tit 2:5 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 63.3 | ο θεοσ και πατηρ ~ 2Co 1:3, 2Co 11:31, Eph 1:3, 1Th 3:11 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 63.5 | ο λογοσ του θεου ~ Ro 9:6, 1Co 14:36, 2Ti 2:9, Tit 2:5 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 67.9 | μετα φοβου και τρομου ~ 2Co 7:15, Eph 6:5, Php 2:12 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 69.5 | την δοξαν του θεου ~ 2Co 4:15 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 74.3 | τω θεω και πατρι ~ 1Co 15:24, Eph 5:20 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 75.1 | ονομα του θεου και ~ 1Ti 6:1 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 81.3 | εν τοισ λογοισ τουτοισ ~ 1Th 4:18 | Psalm 90:4 as in 2 Peter 3:8 ("a day of the Lord is as a thousand years")
+Justin | Dial 81.3 | οτι ημερα κυριου ωσ ~ 1Th 5:2 | Psalm 90:4 as in 2 Peter 3:8 ("a day of the Lord is as a thousand years")
+Justin | Dial 85.2 | του υιου του θεου ~ Ga 2:20, Eph 4:13 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 88.1 | του πνευματοσ του θεου ~ 1Co 2:14 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 90.5 | τον θεον και η ~ Php 4:6 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 92.3 | δε αβρααμ τω θεω και ~ Ro 4:3 (also elsewhere in the NT) | Genesis 15:6, which Paul quotes
+Justin | Dial 92.4 | τω θεω δια του ~ Ro 5:10, Ro 5:11, Eph 2:16 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 96.2 | την αληθειαν του θεου ~ Ro 1:25 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 96.2 | ο θεοσ δια του ~ 1Co 2:10 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 100.1 | ου μονον εν τη ~ 1Th 1:8 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 100.2 | δια τησ χαριτοσ αυτου ~ Ga 1:15 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 106.1 | εκ των νεκρων και ~ Eph 5:14 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 106.1 | αυτον εκ νεκρων και ~ Ga 1:1, Eph 1:20, Col 2:12 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 108.2 | αυτον εκ νεκρων και ~ Ga 1:1, Eph 1:20, Col 2:12 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 110.4 | δια του ονοματοσ του ~ 1Co 1:10 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 110.6 | την αληθειαν του θεου ~ Ro 1:25 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 111.4 | του αιματοσ του χριστου ~ 1Co 10:16 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 113.6 | ιησου του κυριου ημων ~ 1Ti 1:2, 2Ti 1:2 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 113.7 | ο θεοσ δια του ~ 1Co 2:10 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 115.1 | το μυστηριον του χριστου ~ Col 4:3 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 116.3 | δια του ονοματοσ του ~ 1Co 1:10 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 117.5 | δια του ονοματοσ του ~ 1Co 1:10 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 120.6 | υπερανω πασησ αρχησ και εξουσιασ και δυναμεωσ ~ Eph 1:21, Col 2:10 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 121.3 | τασ αρχασ και τασ ~ Col 2:15 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 123.6 | και γαρ οτε προσ ~ 1Th 3:4 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 128.2 | τω αβρααμ η τω ~ Ro 4:13 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 131.5 | τασ αρχασ και τασ ~ Col 2:15 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 133.6 | τω θεω και πατρι ~ 1Co 15:24, Eph 5:20 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 138.1 | του θεου προσ την ~ Ro 3:26 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 139.5 | ειτε δουλοι ειτε ελευθεροι ~ 1Co 12:13 | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 141.2 | ο λογοσ του θεου ~ Ro 9:6, 1Co 14:36, 2Ti 2:9, Tit 2:5 (also elsewhere in the NT) | stock phrase: common Christian or Greek wording, not tied to one passage
+Justin | Dial 42.1 | mention "αποστολων": ... και το δωδεκα κωδωνασ εξηφθαι του ποδηρουσ του αρχιερεωσ παραδεδοσθαι των δωδεκα αποστολων των εξαφθεντων απο τησ δυναμεωσ του αιωνιου ιερεωσ χριστου δι ων τησ ... | the apostles (the Twelve), not Paul
+Justin | Dial 42.2 | mention "αποστολων": ... τησ οικουμενησ τα ρηματα αυτων και ο ησαιασ ωσ απο προσωπου των αποστολων λεγοντων τω χριστω οτι ουχι τη ακοη αυτων πιστευουσιν αλλα τη αυτου ... | the apostles (the Twelve), not Paul
+Justin | Dial 75.3 | mention "αποστολοι": ... τον ιακωβ τουτω τω ονοματι ομοιωσ μετωνομακει οτι δε και αγγελοι και αποστολοι του θεου λεγονται οι αγγελλειν τα παρ αυτου αποστελλομενοι προφηται εν τω ... | the apostles (the Twelve), not Paul
+Justin | Dial 76.6 | mention "αποστολουσ": ... κυριευσων αλλ ουν γε υπ ουδενοσ νοεισθαι εδυνατο μεχρισ αυτοσ επεισε τουσ αποστολουσ εν ταισ γραφαισ ταυτα κεκηρυχθαι διαρρηδην εβοα γαρ προ του σταυρωθηναι δει ... | the apostles (the Twelve), not Paul
+Justin | Dial 81.4 | mention "αποστολων": ... και επειτα και παρ ημιν ανηρ τισ ω ονομα ιωαννησ εισ των αποστολων του χριστου εν αποκαλυψει γενομενη αυτω χιλια ετη ποιησειν εν ιερουσαλημ τουσ ... | the apostles (the Twelve), not Paul
+Justin | Dial 88.3 | mention "αποστολοι": ... του υδατοσ ωσ περιστεραν το αγιον πνευμα επιπτηναι επ αυτον εγραψαν οι αποστολοι αυτου τουτου του χριστου ημων και ουχ ωσ ενδεα αυτον του βαπτισθηναι ... | the apostles (the Twelve), not Paul
+Justin | Dial 100.4 | mention "αποστολων": ... καλουμενον επωνομασε πετρον και υιον θεου γεγραμμενον αυτον εν τοισ απομνημονευμασι των αποστολων αυτου εχοντεσ και υιον αυτον λεγοντεσ νενοηκαμεν οντα και προ παντων ποιηματων ... | the apostles (the Twelve), not Paul
+Justin | Dial 101.3 | mention "αποστολων": ... εν αλληλοισ διαρρινουντεσ ελεγον ειρωνευομενοι ταυτα α και εν τοισ απομνημονευμασι των αποστολων αυτου γεγραπται υιον θεου εαυτον ελεγε καταβασ περιπατειτω σωσατω αυτον ο θεοσ ... | the apostles (the Twelve), not Paul
+Justin | Dial 102.5 | mention "αποστολων": ... μηκετι επι πιλατου αποκρινασθαι μηδεν μηδενι βουλομενου ωσ εν τοισ απομνημονευμασι των αποστολων αυτου δεδηλωται οπωσ και το δια ησαιου ειρημενον καρπον ενεργη εχη οπου ... | the apostles (the Twelve), not Paul
+Justin | Dial 103.6 | mention "αποστολων": ... υιοσ μου ει συ εγω σημερον γεγεννηκα σε εν τοισ απομνημονευμασι των αποστολων γεγραπται προσελθων αυτω και πειραζων μεχρι του ειπειν αυτω προσκυνησον μοι και ... | the apostles (the Twelve), not Paul
+Justin | Dial 103.8 | mention "αποστολων": ... συλλαβειν αυτον προαγγελια ην εν γαρ τοισ απομνημονευμασιν α φημι υπο των αποστολων αυτου και των εκεινοισ παρακολουθησαντων συντεταχθαι γεγραπται οτι ιδρωσ ωσει θρομβοι κατεχειτο ... | the apostles (the Twelve), not Paul
+Justin | Dial 104.1 | mention "αποστολων": ... οι αγωνιζομενοι επι τω καταδικασασθαι αυτον οπερ και εν τοισ απομνημονευμασι των αποστολων αυτου γεγραπται γενομενον και οτι μετα το σταυρωθηναι αυτον εμερισαν εαυτοισ οι ... | the apostles (the Twelve), not Paul
+Justin | Dial 106.1 | mention "αποστολων": ... των πιστευοντων ανθρωπων και οτι εν μεσω των αδελφων αυτου εστη των αποστολων οιτινεσ μετα το αναστηναι αυτον εκ νεκρων και πεισθηναι υπ αυτου οτι ... | the apostles (the Twelve), not Paul
+Justin | Dial 106.1 | mention "αποστολων": ... μετ αυτων διαγων υμνησε τον θεον ωσ και εν τοισ απομνημονευμασι των αποστολων δηλουται γεγενημενον τα λειποντα του ψαλμου εδηλωσεν εστι δε ταυτα διηγησομαι το ... | the apostles (the Twelve), not Paul
+Justin | Dial 106.3 | mention "αποστολων": ... απαν το σπερμα ισραηλ και το ειπειν μετωνομακεναι αυτον πετρον ενα των αποστολων και γεγραφθαι εν τοισ απομνημονευμασιν αυτου γεγενημενον και τουτο μετα του και ... | the apostles (the Twelve), not Paul
+Justin | Dial 106.4 | mention "αποστολων": ... ουρανω αμα τω γεννηθηναι αυτον αστεροσ ωσ γεγραπται εν τοισ απομνημονευμασι των αποστολων αυτου οι απο αρραβιασ μαγοι εκ τουτου επι γνοντεσ παρεγενοντο και προσεκυνησαν ... | the apostles (the Twelve), not Paul
+Justin | Dial 109.1 | mention "αποστολων": ... μετανοειν απο τησ κακιασ εν η πλανωμενοι επολιτευοντο ακουσαντα τον υπο των αποστολων αυτου απο ιερουσαλημ κηρυχθεντα και δι αυτων μαθοντα λογον και λογουσ βραχεισ ... | the apostles (the Twelve), not Paul
+Justin | Dial 110.2 | mention "αποστολων": ... νομου και του λογου του εξελθοντοσ απο ιερουσαλημ δια των του ιησου αποστολων την θεοσεβειαν επιγνοντεσ επι τον θεον ιακωβ και θεον ισραηλ κατεφυγομεν και ... | the apostles (the Twelve), not Paul
+Justin | Dial 114.4 | mention "αποστολων": ... υμετεραν φανερωθεισα δια λιθων ακροτομων τουτεστι δια των λογων των δια των αποστολων του ακρογωνιαιου λιθου και του ανευ χειρων τμηθεντοσ περιτεμνει ημασ απο τε ... | the apostles (the Twelve), not Paul
+Justin | Dial 119.6 | mention "αποστολων": ... αυτον τροπον και ημεισ τη φωνη του θεου τη δια τε των αποστολων του χριστου λαληθειση παλιν και τη δια των προφητων κηρυχθειση ημιν πιστευσαντεσ ... | the apostles (the Twelve), not Paul
+Basilidians in Hippolytus | Ref 7.27.9 | εστιν η κεφαλη του ~ Col 1:18 | stock phrase: common Christian or Greek wording, not tied to one passage
+Basilidians reported by Clement | Strom 3.1.1 | mention "αποστολων": ... πυθομενων φασι αποστολων μη ποτε αμεινον εστι το μη γαμειν αποκρινασθαι λεγουσι τον κυριον ου ... | the apostles (the Twelve), not Paul
+Basilidians reported by Clement | Strom 3.1.2 | mention "αποστολον": ... γαμησαι η πυρουσθαι μη εισ πυρ εμβαλησ την ψυχην σου λεγειν τον αποστολον νυκτοσ και ημερασ αντεχων και φοβουμενοσ μη τησ εγκρατειασ αποτισησ προσ γαρ ... | the mention belongs to the use coded at this place
+Theodotus | Exc 6 | εν τω θεω τω ~ Eph 3:9 | not Ephesians 3:9: "in God, the Mind"
+Theodotus | Exc 10 | και ουσ ουκ ηκουσεν ~ 1Co 2:9 | a saying also found outside Paul (Isaiah 64:4; Gospel of Thomas 17)
+Theodotus | Exc 27 | ταισ αρχαισ και ταισ εξουσιαισ ~ Eph 3:10 | stock phrase: common Christian or Greek wording, not tied to one passage
+Theodotus | Exc 75 | δια τουτο γαρ και ~ Ro 13:6 | stock phrase: common Christian or Greek wording, not tied to one passage
+Theodotus | Exc 3 | mention "αποστολοισ": ... υμων εμπροσθεν των ανθρωπων και μετα την αναστασιν εμφυσων το πνευμα τοισ αποστολοισ τον μεν χουν καθαπερ τεφραν απεφυσα και εχωριζεν εξηπτε δε τον σπινθηρα ... | the apostles (the Twelve), not Paul
+Theodotus | Exc 4 | mention "αποστολοισ": ... ωσ αγγελοσ ωφθη αλλ ωσ ανθρωποσ και οτε εν δοξη ωφθη τοισ αποστολοισ επι του ορουσ ου δι εαυτον εποιησεν δεικνυσ εαυτον αλλα την εκκλησιαν ... | the apostles (the Twelve), not Paul
+Theodotus | Exc 7 | mention "αποστολου": ... προβληθεισ ο δε ενταυθα οφθεισ ουκετι μονογενησ αλλ ωσ μονογενησ προσ του αποστολου προσαγορευεται δοξαν ωσ μονο γενουσ οτι εισ και ο αυτοσ ων εν ... | "called by the apostle" quotes John 1:14 ("glory as of the only-begotten"), not Paul
+Theodotus | Exc 7 | mention "αποστολοσ": ... κεχωρησθαι δυναται και ουδεποτε του μειναντοσ ο καταβασ μεριζεται φησι γαρ ο αποστολοσ ο γαρ αναβασ αυτοσ εστι και ο καταβασ εικονα δε του μονογενουσ ... | the mention belongs to the use coded at this place
+Theodotus | Exc 11 | mention "αποστολοσ": ... ασχηματιστου πωσ αν ειη σωματα γουν επουρανια ευμορφα και νοερα οιδεν ο αποστολοσ πωσ δ αν και ονοματα διαφορα αυτων ελεγετο ει μη σχημασιν ην ... | the mention belongs to the use coded at this place
+Theodotus | Exc 12 | mention "αποστολον": ... υιοσ ετι τουτου καθαρωτεροσ απροσιτον φωσ και δυναμισ θεου και κατα τον αποστολον τιμιω και αμωμω και ασπιλω αιματι ελυτρωθημεν ου τα μεν ιματια ωσ ... | "according to the apostle" quotes 1 Peter 1:19, not Paul
+Theodotus | Exc 14 | mention "αποστολοσ": ... αγγελοι σωματα εισιν ορωνται γουν αλλα και η ψυχη σωμα ο γουν αποστολοσ σπειρεται μεν γαρ σωμα ψυχικον εγειρεται δε σωμα πνευματικον πωσ δε και ... | the mention belongs to the use coded at this place
+Theodotus | Exc 19 | mention "παυλοσ": ... ο γεγονεν εν αυτω ζωη εστιν ζωη δε ο κυριοσ και ο παυλοσ ενδυσαι τον καινον ανθρωπον τον κατα θεον κτισθεντα οιον εισ αυτον πιστευσον ... | the mention belongs to the use coded at this place
+Theodotus | Exc 22 | mention "αποστολοσ": ... μετατιθεσθαι λεγεται και η ενταυθα εκκλησια εισ αγγελουσ και οταν ειπη ο αποστολοσ επει τι ποιησουσιν οι βαπτιζομενοι υπερ των νεκρων υπερ ημων γαρ φησιν ... | the mention belongs to the use coded at this place
+Theodotus | Exc 23 | mention "παυλοσ": ... αιωνων ιησουσ προβαλλεται παρακλητοσ τω παρελθοντι αιωνι εν τυπω δε παρακλητου ο παυλοσ αναστασεωσ αποστολοσ γεγονεν αυτικα μετα το παθοσ του κυριου και αυτοσ απεσταλη ... | names Paul as "apostle of the resurrection"; no passage quoted
+Theodotus | Exc 23 | mention "αποστολοσ": ... προβαλλεται παρακλητοσ τω παρελθοντι αιωνι εν τυπω δε παρακλητου ο παυλοσ αναστασεωσ αποστολοσ γεγονεν αυτικα μετα το παθοσ του κυριου και αυτοσ απεσταλη κηρυσσειν διο ... | names Paul as "apostle of the resurrection"; no passage quoted
+Theodotus | Exc 25 | mention "αποστολοι": ... του οντοσ λεγουσι δε και τουσ αιωνασ ομωνυμωσ τω λογω λογουσ οι αποστολοι φησι μετετεθησαν τοισ δεκαδυο ζωδιοισ ωσ γαρ υπ εκεινων η γενεσισ διοικειται ... | the apostles (the Twelve), not Paul
+Theodotus | Exc 25 | mention "αποστολων": ... δεκαδυο ζωδιοισ ωσ γαρ υπ εκεινων η γενεσισ διοικειται ουτωσ υπο των αποστολων η αναγεννησισ εφ οραται το ορατον του ιησου η σοφια και η ... | the apostles (the Twelve), not Paul
+Theodotus | Exc 35 | mention "αποστολοσ": ... νυν εχει η μητηρ ο ιησουσ το φωσ ημων ωσ λεγει ο αποστολοσ εαυτον κενωσασ τουτεστιν εκτοσ του ορου γενομενοσ κατα θεοδοτον επει αγγελοσ ην ... | the mention belongs to the use coded at this place
+Theodotus | Exc 41 | mention "αποστολοσ": ... υμων μηνυων περι του φωτοσ του φανεντοσ και μορφωσαντοσ περι ου ο αποστολοσ λεγει ο φωτιζει παντα ανθρωπον ερχομενον εισ τον κοσμον τον του διαφορου ... | "the apostle" here quotes John 1:9, not Paul
+Theodotus | Exc 44 | mention "παυλοσ": ... αυτω εκπεμφθεντασ θεασαμενη κατηδεσθη και καλυμμα επεθετο δια τουτου του μυστηριου ο παυλοσ κελευει τασ γυναικασ φορειν εξουσιαν επι τησ κεφαλησ δια τουσ αγγελουσ ευθυσ ... | the mention belongs to the use coded at this place
+Theodotus | Exc 48 | mention "αποστολοσ": ... πνευματικα τησ πονηριασ προσ α η παλη ημιν διο και λεγει ο αποστολοσ και μη λυπειτε το πνευμα το αγιον του θεου εν ω εσφραγισθητε ... | the mention belongs to the use coded at this place
+Theodotus | Exc 49 | mention "αποστολοσ": ... ενεργουσαν οιομενοσ ιδια δυναμει δημιουργειν φιλεργοσ ων φυσει δια τουτο ειπεν ο αποστολοσ υπεταγη τη ματαιοτητι του κοσμου ουχ εκων αλλα δια τον υποταξαντα επ ... | the mention belongs to the use coded at this place
+Theodotus | Exc 52 | mention "παυλοσ": ... εν γεεννη απολεσαι τουτο το σαρκιον αντιδικον ο σωτηρ ειπεν και ο παυλοσ νομον αντιστρατευομενον τω νομω του νοοσ μου και δησαι παραινει και αρπασαι ... | the mention belongs to the use coded at this place
+Theodotus | Exc 66 | mention "αποστολουσ": ... τουτο αυτου το πληρωμα τησ χαρασ και τησ αναπαυσεωσ ο σωτηρ τουσ αποστολουσ εδιδασκεν τα μεν πρωτα τυπικωσ και μυστικωσ τα δε υστερα παραβολικωσ και ... | the apostles (the Twelve), not Paul
+Theodotus | Exc 67 | mention "αποστολοσ": ... σαφωσ και γυμνωσ κατα μονασ οτε ημεν εν τη σαρκι φησιν ο αποστολοσ ωσπερ εξω του σωματοσ ηδη λαλων σαρκα ουν λεγειν αυτον φησιν εκεινην ... | the mention belongs to the use coded at this place
+Theodotus | Exc 74 | mention "αποστολοσ": ... κατηλθεν ειρηνην ποιησων την απ ουρανου τοισ επι γησ ωσ φησιν ο αποστολοσ ειρηνη επι τησ γησ και δοξα εν υψιστοισ δια τουτο ανετειλεν ξενοσ ... | "the apostle" here quotes Luke 2:14, not Paul
+Theodotus | Exc 76 | mention "αποστολοισ": ... εξουσιαν επανω σκορπιων και οφεων περιπατειν των δυναμεων των πονηρων και τοισ αποστολοισ εντελλεται περιιοντεσ κηρυσσετε και τουσ πιστευοντασ βαπτιζετε εισ ονομα πατροσ και υιου ... | the apostles (the Twelve), not Paul
+Theodotus | Exc 85 | mention "αποστολοσ": ... ψυχην ατρωτον οπλοισ σβεσαι τα βελη του διαβολου δυναμενοισ ωσ φησιν ο αποστολοσ επι του προ σ κομισθεντοσ νομισματοσ ο κυριοσ ειπεν ου τινοσ το ... | the mention belongs to the use coded at this place

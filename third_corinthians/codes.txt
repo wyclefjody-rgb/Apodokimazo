@@ -1,0 +1,18 @@
+# 3 Corinthians, Part A: every datable item, coded with slip_rate's categories and codes (PREDICTIONS.md section 3).
+# Read in full in Vouaux's Latin and French (letter I = the Corinthians to Paul; II = the linking narrative, which
+# survives in Coptic and Armenian, translated by Vouaux; III = Paul's reply). Coded by Claude (an AI model),
+# 2026-10-27, for review.
+#   text | places | item | code | strength | reason
+# code: fits / slip / either / not. Setting: Paul's lifetime, after he founded the church at Corinth (the 50s).
+3 Corinthians | I.1 | elders lead the church with Stephanas | slip | weak | "Stephanas and the elders (majores natu = presbyteroi, Vouaux) with him" write for the church; Paul's own letters to Corinth have no elders, and elders as an office are a 2nd-century marker in vanishing_point; but Acts already gives Paul's churches elders, so weak
+3 Corinthians | I.4-5; III.4 | the teaching received from the other apostles | slip | medium | the Corinthians have heard "from you and from the other apostles", and Paul says he handed on what he "received from the holy apostles before me, who were with the Lord Jesus Christ all the time"; this contradicts Paul's own claim that he received his gospel from no human being (Galatians 1:1, 1:11-12, 1:17); Vouaux calls it an anachronism showing the 2nd century's concern with apostolic tradition
+3 Corinthians | I.2, I.10-15; III.19-20, III.24-25 | Simon and Cleobius teach a full Gnostic system in Corinth | slip | medium | the prophets rejected, God not almighty, no resurrection of the flesh, man not made by God, Christ not come in the flesh nor born of Mary, the world made by angels; denial of the resurrection is already in 1 Corinthians 15:12 and Simon is a figure of Acts 8, so some roots are 1st-century, but the combined system with world-making angels is that of the 2nd-century teachers (Saturninus, Menander, as Vouaux notes); medium, not strong, because the parts can be traced earlier
+3 Corinthians | III.36 | a "rule" received through the holy prophets and the holy Gospel | slip | weak | the prophets and "the holy Gospel" together as a rule of faith; Paul's "gospel" is his preached message, while a rule (regula) from prophets and Gospel is the language of the later 2nd century (Irenaeus); weak, because "gospel" here could still mean the message
+3 Corinthians | II.1 | the letter carried by the deacons Threptus and Eutychus | either | - | deacons are named in Paul's time (Philippians 1:1; Romans 16:1); Eutychus' name is probably taken from Acts 20:9 (Vouaux)
+3 Corinthians | II.2; III.1, III.35 | Paul in chains at Philippi after founding Corinth | either | - | Acts has Paul jailed at Philippi only before he reached Corinth (Acts 16), but Paul speaks of many imprisonments (2 Corinthians 11:23) and writes Philippians from prison, so an unrecorded imprisonment cannot be ruled out
+3 Corinthians | III.3 | the Lord "will come soon" | either | - | as for the core four in slip_rate: fits the setting and many later times
+3 Corinthians | (whole text) | no "Christian" | fits | weak | the name is absent, as in the core four (slip_rate AMENDMENTS.md 1)
+3 Corinthians | I.8 | Theonoe's revelation that the Lord saved Paul from the enemy | not | - | a story of the Acts of Paul, not datable
+3 Corinthians | III.5-18 | Christ born of Mary of David's seed; the prophets sent to the Jews; the devil wanting to be God | not | - | doctrine, not an event or practice of a time; counted under the Simon and Cleobius item as the answer to it
+3 Corinthians | III.26-33 | the seed, Jonah, the bones of Elisha | not | - | arguments from nature and scripture
+3 Corinthians | III.35 | "I bear his marks in my body" | not | - | taken from Galatians 6:17

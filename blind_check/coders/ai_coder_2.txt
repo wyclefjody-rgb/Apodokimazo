@@ -1,0 +1,158 @@
+B001 | either | - | Persecution of believers is attested for the 50s (Acts, Thessalonians) and continues later.
+B002 | fits | - | Imminent expectation is characteristic of the earliest generation and fades as the delay is felt.
+B003 | fits | - | Trajan was away on the Rhine at accession and entered Rome in 99, a moment-specific detail.
+B004 | either | - | Widow care is early (Acts 6) and celibacy is praised by Paul, but both persist later.
+B005 | slip | medium | Peter as foundation and primate sent to the West reflects later Roman primacy claims.
+B006 | fits | - | Lake Sapanca canal schemes and Calpurnius Macer, governor of Moesia c.112, are independently attested.
+B007 | either | - | The phrase is used by Paul and Acts and later Christian writers.
+B008 | fits | - | Seneca was in his mid-sixties in 63-65.
+B009 | either | - | The proconsul of Asia was based at Ephesus in the 1st century and afterwards.
+B010 | either | - | Matches the events in Acts 13-14 and could be repeated by any later writer.
+B011 | fits | - | Quintus Cicero received Asia by lot in 61 BCE.
+B012 | fits | - | Assumes the Jerusalem temple service still functioning before 70.
+B013 | either | - | Synagogues and sabbaths are attested in the 50s and later.
+B014 | either | - | Diplomata for the public post with time limits existed under Trajan and later.
+B015 | fits | - | Fits Trajan's known hostility to collegia and hetaeriae in the east.
+B016 | either | - | Absence of the term proves nothing about date.
+B017 | fits | - | Charismatic order without fixed offices fits Paul's 50s churches and is odd later.
+B018 | either | - | Trials before judges fit the 60s and later.
+B019 | fits | - | The Asian publicans' petition and Cato's opposition in 61 BCE are attested.
+B020 | fits | - | Trajan's Dacian victories of 102 and 106 fit the period.
+B021 | fits | - | Imperial grants of ius trium liberorum and condemnation of Domitian's reign fit Trajan's early years.
+B022 | either | - | Plausible for Paul's travels to Macedonia but not tied to that date.
+B023 | slip | weak | Branding Paul as an enemy of the law echoes later Ebionite anti-Pauline polemic.
+B024 | fits | - | Pompey's divorce, the Bona Dea scandal of Dec 62 and Caesar's divorce fit 61 BCE.
+B025 | fits | - | C. Piso governed Gaul in 66-65 while Pompey commanded in the East.
+B026 | either | - | Roman law on provincial soil not being sacred fits Trajan's time and later jurists.
+B027 | fits | - | Matches the Bithynian Christian trials c.112 and Trajan's ban on associations.
+B028 | either | - | A general eschatological idea of any period.
+B029 | slip | strong | The Easter/Passover dating dispute belongs to the late 2nd-4th centuries.
+B030 | slip | medium | Episcopal succession lists naming Evodius first appear much later (Eusebius).
+B031 | not | - | Named carriers cannot be checked.
+B032 | slip | medium | The compound terms Christ-killers and Lord-killers are later polemical coinages.
+B033 | slip | medium | Cyprus's governor sat at Paphos and no kinsman of Nero named Jebusaeus is known.
+B034 | fits | - | The circumcision dispute among believers is a live 40s-50s issue that faded later.
+B035 | either | - | Widows and virgins as groups appear in Ignatius and Polycarp and later.
+B036 | either | - | Crassus's wealth was proverbial then and long after.
+B037 | slip | medium | Quoting gospel openings as works of named evangelists reflects later canonical usage.
+B038 | not | - | Siphor and Vizan cannot be checked.
+B039 | slip | weak | Paul's Corinthian letters know no elders and presbyters at Corinth appear later.
+B040 | either | - | Undated expectation of the appearing fits any period.
+B041 | fits | - | M. Valerius Messalla and M. Pupius Piso were consuls in 61 BCE.
+B042 | either | - | The Artemisium and its festival continued into the 3rd century.
+B043 | either | - | Apollo temples and priests existed in the 50s and later.
+B044 | slip | medium | Catechists as an order and a fixed clergy-laity hierarchy are later developments.
+B045 | fits | - | Pilgrimage to the temple fits before 70.
+B046 | fits | - | Gondophares is attested by coins and the Takht-i-Bahi inscription c.46 CE.
+B047 | either | - | An eyewitness claim is consistent with the 60s but cannot pin a date.
+B048 | either | - | Pilate is attested but the tradition recurs later.
+B049 | either | - | Absence of the term proves nothing about date.
+B050 | fits | - | Helvetian unrest and the Aeduan defeat match the alarm of 61-60 BCE.
+B051 | fits | - | Trajan's birthday was 18 September, matching arrival on the 17th.
+B052 | not | - | A self-reference to a prior letter cannot be independently checked.
+B053 | fits | - | Aretas IV died c.40 and his control of Damascus is a narrow early detail.
+B054 | fits | - | Pompey's move to recall C. Antonius from Macedonia fits 62-61 BCE.
+B055 | slip | strong | A developed Gnostic system belongs to the 2nd century.
+B056 | either | - | Pacuvius, legate in Syria under Tiberius, is attested and could be recalled anytime.
+B057 | slip | strong | Forty-day Lent and Holy Week are 4th-century developments.
+B058 | either | - | Plausible for a convert in the 50s and later.
+B059 | fits | - | The disrupted elections of 67 BCE are attested by Dio.
+B060 | either | - | Apamea's colonial status is attested from Caesar onward.
+B061 | slip | medium | Citing a gospel saying as scripture reflects 2nd-century usage.
+B062 | slip | weak | Heresy as false teaching is a later technical sense.
+B063 | slip | medium | No senatus consultum ordering the execution of Christians is known.
+B064 | fits | - | Lucceius' coalition with Caesar against Bibulus fits the 60 BCE elections.
+B065 | fits | - | Tullia's betrothal to Piso Frugi fits 67 BCE.
+B066 | either | - | The name Christian was in use by the 40s-60s and later.
+B067 | either | - | Kyriake is attested in Revelation and the Didache and later.
+B068 | slip | weak | Settled offices fit better after the 60s.
+B069 | slip | strong | A Pauline letter collection ranked as scripture belongs to the 2nd century.
+B070 | either | - | Absence of the term proves nothing about date.
+B071 | slip | strong | Sacerdotal bishops offering sacrifice is 3rd-century language.
+B072 | fits | - | The Clodius trial of 61 BCE with Fufius and the bribed jury is attested.
+B073 | fits | - | Cicero presided as praetor in 66 BCE over Licinius Macer's condemnation.
+B074 | either | - | The Memphite nome is attested across Roman Egypt.
+B075 | either | - | A historical anecdote could be cited at any later time.
+B076 | either | - | Late Republican anecdotes could be cited at any later time.
+B077 | either | - | Paired praetorian prefects were usual under Trajan and later.
+B078 | either | - | Ignatius' guarded journey is confirmed by Polycarp but the image is general.
+B079 | fits | - | Pompey's return speeches and Crassus' praise of Cicero fit 61 BCE.
+B080 | either | - | Charinus was archon in 308/7 and could be cited at any later time.
+B081 | slip | strong | Papa as a title for the Roman bishop and fixed succession language are later.
+B082 | fits | - | The Jerusalem collection is a 50s project.
+B083 | either | - | Absence of the term proves nothing about date.
+B084 | slip | weak | The name Christian arose in Antioch in the 40s and is unlikely in a 30s Indian setting.
+B085 | either | - | These deaths were traditional by c.110 and remained so.
+B086 | either | - | Slave recruits is a perennial legal problem.
+B087 | either | - | Internal arbitration is attested from 1 Corinthians onward.
+B088 | slip | strong | James died in 62, before Peter.
+B089 | either | - | A 12 percent rate was standard over a long period.
+B090 | slip | medium | Translation of Thomas's relics to Edessa is a later event.
+B091 | fits | - | The family and legal details fit Cicero's 60s.
+B092 | fits | - | Afranius's bribery campaign for the 60 consulship fits 61 BCE.
+B093 | either | - | Received apostolic tradition fits the 50s and later.
+B094 | fits | - | Trajan succeeded Nerva in January 98.
+B095 | slip | weak | Dividing the world by lot is a later tradition (Origen, apocryphal acts).
+B096 | fits | - | Bithynian building projects fit Pliny's governorship.
+B097 | fits | - | The Alexandrian-citizenship prerequisite for Egyptians is attested Roman practice.
+B098 | either | - | Graecinus was killed by Caligula and could be recalled later.
+B099 | fits | - | Servianus was a close associate of Trajan and three-time consul under him.
+B100 | either | - | General expectation at any period.
+B101 | slip | strong | Early succession lists put Linus first and the chair motif is later.
+B102 | either | - | The name is in use from the 1st century on.
+B103 | either | - | Echoes Romans and could be written c.110 or later.
+B104 | slip | weak | Calling James bishop is a later title (Hegesippus).
+B105 | slip | medium | Acts puts the Philippi imprisonment before the founding of Corinth.
+B106 | slip | strong | Titus reigned between Vespasian and Domitian.
+B107 | slip | medium | Antitheses and falsely called gnosis echo Marcion and anti-Gnostic polemic.
+B108 | either | - | Docetic opponents are attested in Ignatius and later.
+B109 | fits | - | Metellus Celer and Afranius were consuls(-elect) for 60 BCE.
+B110 | fits | - | Byzantium's envoy to the Moesian governor matches the region's administration.
+B111 | either | - | Evangelists are named in Acts and Ephesians and later.
+B112 | either | - | Parousia expectation of any early period.
+B113 | either | - | Nerva's recall of exiles and adoption of Trajan in 97 are correct.
+B114 | not | - | A gospel episode with no independent check.
+B115 | slip | medium | Polymorphic and docetic Christology is a 2nd-century development.
+B116 | fits | - | Aufidius Bassus was an elderly historian contemporary with Seneca.
+B117 | fits | - | The threefold ministry with named bishops is attested c.110 (Polycarp).
+B118 | slip | strong | Minor orders are first attested in the 3rd century.
+B119 | slip | weak | Heracleides of Tamassos as a bishop is a later legend.
+B120 | either | - | Sunday collection fits the 50s and later.
+B121 | fits | - | Pliny's treasury prefecture and the Priscus trial of 100 are attested.
+B122 | fits | - | Cicero's Greek consular memoir and Lucullus' Greek history fit 61-60 BCE.
+B123 | fits | - | Both men were alive in the 50s and James died in 62.
+B124 | fits | - | Narcissus was Claudius's freedman, executed in 54.
+B125 | either | - | Attested in Acts and repeatable later.
+B126 | fits | - | Lappius Maximus governed Bithynia under Domitian and Nerva confirmed grants.
+B127 | either | - | Imperial vows and accession oaths are long-running practices.
+B128 | slip | medium | A written Gospel as a rule of faith is a later concept.
+B129 | slip | weak | Josephus says stones were thrown at Agrippa II, but he was not stoned to death.
+B130 | either | - | Republican exempla used at any time.
+B131 | either | - | A recurring festival.
+B132 | slip | medium | A written Matthew in the 50s is unlikely.
+B133 | fits | - | The candidates for 64 match Att. 1.1 of 65 BCE.
+B134 | not | - | Esoteric books of Peter cannot be checked.
+B135 | either | - | The infancy stories were available by c.110 (Ignatius' star).
+B136 | either | - | Absence of the term proves nothing about date.
+B137 | either | - | Generic eschatology.
+B138 | either | - | Peter's death in Rome in the 60s is consistent.
+B139 | either | - | Historical events cited at any later time.
+B140 | slip | medium | Implies the founding generation has died, which fits after the 60s.
+B141 | either | - | Military terms of long standing.
+B142 | either | - | Hairetikos as factious fits the 1st century.
+B143 | either | - | General.
+B144 | fits | - | Herennius' bill and Flavius' land law fit 61-60 BCE.
+B145 | either | - | The Lex Cincia of 204 BCE remained cited for centuries.
+B146 | fits | - | Pliny sought and gained the augurate c.103.
+B147 | fits | - | The consuls of 64 and Catiline's extortion trial fit 65 BCE.
+B148 | either | - | Jerusalem under Rome fits the 50s and later.
+B149 | fits | - | The end expected within Paul's lifetime is odd later.
+B150 | not | - | Cannot be checked.
+B151 | not | - | Pudens and Claudia cannot be checked, and Linus only through later lists.
+B152 | fits | - | Pompeius Planta was prefect of Egypt in 98-100, per papyri.
+B153 | either | - | Augustan-era names cited later.
+B154 | fits | - | Demetrius the Cynic was active in the 60s (Tacitus).
+B155 | not | - | Cannot be checked.
+B156 | slip | strong | Language on the unbegotten Father and the Son begotten before the ages reflects the 3rd-4th-century Monarchian and Arian controversies.
+B157 | either | - | General.
+B158 | not | - | Cannot be checked.

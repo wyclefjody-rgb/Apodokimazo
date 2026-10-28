@@ -1,0 +1,204 @@
+# Pauline entries in The New Testament in the Apostolic Fathers (Oxford, 1905), coded for ALLUSIONS_PREDICTIONS.md.
+# One line per numbered entry of the committee:
+#   writer | entry | writer's passage | Pauline passage(s) | grade | printed page | note
+# Grade: a, b, c, d as the committee printed it; u = printed under "Unclassed"; x = only a cross-reference to
+# another entry of the same writer (not counted again).
+# Pauline passages are separated by ";". A passage marked "*" is a changed phrase whose missing words the writer's
+# parallel contains (ALLUSIONS_PREDICTIONS.md section 2). Marcion classes are worked out by allusions.py.
+# Printed page + 12 = page of the PDF scan.
+1 Clement | 1 | 35.5-6 | Ro 1:29-32 | a | 37 |
+1 Clement | 2 | 33.1 | Ro 6:1 | b | 38 |
+1 Clement | 3 | 32.2 | Ro 9:5 | c | 38 | "the phrase to kata sarka is not a very obvious one"
+1 Clement | 4 | 50.6-7 | Ro 4:7-9 | c | 39 |
+1 Clement | 5 | 36.2 | Ro 1:21 | d | 39 | also Eph 4:18, entry 37
+1 Clement | 6 | 38.1; 46.7 | Ro 12:4-5; 1Co 6:15; 1Co 12:12; Eph 4:4; Eph 4:25; Eph 5:30 | d | 39 |
+1 Clement | 7 | 37.5-38.1 | 1Co 12:12-26 | a | 40 |
+1 Clement | 8 | 47.1-3 | 1Co 1:11-13 | a | 40 | names Paul and the letter
+1 Clement | 9 | 49.5 | 1Co 13:4-7 | a | 41 |
+1 Clement | 10 | 24.1 | 1Co 15:20; 1Co 15:23 | b | 41 |
+1 Clement | 11 | 24.4-5 | 1Co 15:36-37 | b | 41 |
+1 Clement | 12 | 48.5 | 1Co 12:8-9 | c | 42 |
+1 Clement | 13 | 5.1, 5 | 1Co 9:24 | d | 42 |
+1 Clement | 14 | 34.8 | 1Co 2:9 | d | 42 |
+1 Clement | 15 | 37.3 | 1Co 15:23 | d | 44 |
+1 Clement | 16 | 38.2 | 1Co 16:17; Php 2:30 | d | 44 |
+1 Clement | 17 | 40.1 | 1Co 2:10; Ro 11:33 | d | 44 | Romans 11:33 is just after the gap, so class A
+1 Clement | 18 | 48.6 | 1Co 10:24; 1Co 10:33; Php 2:4 | d | 44 |
+1 Clement | 31 | 1.3 | Tit 2:4-5 | c | 50 |
+1 Clement | 32 | 2.7; 24.4 | Tit 3:1; 2Ti 2:21; 2Ti 3:17; 2Co 9:8 | d | 51 |
+1 Clement | 33 | 36.2 | 2Co 3:18 | d | 51 |
+1 Clement | 34 | 5.5-6 | 2Co 11:23-27 | u | 52 |
+1 Clement | 35 | 2.1 | Ga 3:1 | d | 52 |
+1 Clement | 36 | 5.2 | Ga 2:9 | d | 52 |
+1 Clement | 37 | 36.2 | Eph 4:18 | d | 52 |
+1 Clement | 38 | 46.6 | Eph 4:4-6 | d | 53 |
+1 Clement | 39 | 59.3 | Eph 1:18 | d | 53 |
+1 Clement | 40 | 3.4; 21.1 | Php 1:27 | d | 53 |
+1 Clement | 41 | 47.1-2 | Php 4:15 | d | 54 |
+1 Clement | 42 | 59.2 | Col 1:12-13 | d | 54 |
+1 Clement | 43 | 2.4 | Col 2:1 | u | 54 |
+1 Clement | 44 | 61.2 | 1Ti 1:17 | d | 54 |
+1 Clement | 45 | 29.1 | 1Ti 2:8 | u | 55 |
+Ignatius | 1 | Eph 16.1 | 1Co 6:9-10 | b | 64 |
+Ignatius | 2 | Eph 18.1 | 1Co 1:18-20 | b | 64 |
+Ignatius | 3 | Magn 10.3 | 1Co 5:7 | b | 65 |
+Ignatius | 4 | Rom 5.1 | 1Co 4:4 | b | 65 |
+Ignatius | 5 | Rom 9.2 | 1Co 15:8-10 | b | 65 |
+Ignatius | 6 | Eph 15.3 | 1Co 3:16 | c | 65 |
+Ignatius | 7 | Trall 2.3 | 1Co 4:1 | c | 65 |
+Ignatius | 8 | Trall 5.1 | 1Co 3:1-2 | c | 65 |
+Ignatius | 9 | Trall 12.3 | 1Co 9:27 | c | 65 |
+Ignatius | 10 | Rom 4.3 | 1Co 7:22 | c | 65 |
+Ignatius | 11 | Rom 6.1 | 1Co 9:15 | c | 66 |
+Ignatius | 12 | Philad 4.1 | 1Co 10:16-17 | c | 66 |
+Ignatius | 13 | Philad 7.1 | 1Co 2:10 | c | 66 |
+Ignatius | 14 | Smyrn inscr | 1Co 1:7 | c | 66 |
+Ignatius | 15 | Eph 2.2 | 1Co 16:18 | d | 66 |
+Ignatius | 16 | Eph 2.3 | 1Co 1:10 | d | 66 |
+Ignatius | 17 | Eph 4.2 | 1Co 6:15 | d | 66 |
+Ignatius | 18 | Eph 8.2 | 1Co 2:14 | d | 66 | closer to Ro 8:5, 8 (entry 35)
+Ignatius | 19 | Eph 9.1 | 1Co 3:10-17 | d | 66 |
+Ignatius | 20 | Eph 10.2; 20.1 | 1Co 15:58 | d | 66 |
+Ignatius | 21 | Eph 11.1 | 1Co 7:29 | d | 66 |
+Ignatius | 22 | Eph 17.2 | 1Co 1:24; 1Co 1:30 | d | 67 |
+Ignatius | 23 | Eph 20.1 | 1Co 15:45; 1Co 15:47 | d | 67 | "the new man": not the words Marcion's 15:45 changed, so class A
+Ignatius | 24 | Trall 6.1 | 1Co 7:10 | d | 67 |
+Ignatius | 25 | Trall 11.2 | 1Co 12:12 | d | 67 |
+Ignatius | 26 | Eph inscr | Eph 1:3-14 | b | 67 |
+Ignatius | 27 | Polyc 5.1 | Eph 5:25 | b | 67 |
+Ignatius | 28 | Eph 20.1 | Eph 2:15; Eph 4:24 | c | 68 |
+Ignatius | 29 | Smyrn 1.2 | Eph 2:16 | c | 68 |
+Ignatius | 30 | Polyc 1.2 | Eph 4:2 | c | 68 |
+Ignatius | 31 | Eph 1.1 | Eph 5:1 | d | 68 |
+Ignatius | 32 | Eph 9.1 | Eph 2:20-22 | d | 68 | "stones of the temple": no "prophets", so class A
+Ignatius | 33 | Eph 19 | Eph 3:9 | d | 68 | not the words Marcion's 3:9 changed, so class A
+Ignatius | 34 | Polyc 6.2 | Eph 6:13-17 | d | 68 |
+Ignatius | 35 | Eph 8.2 | Ro 8:5; Ro 8:8 | c | 69 | just before the gap (8:12), so class A
+Ignatius | 36 | Eph 19.3 | Ro 6:4 | c | 69 |
+Ignatius | 37 | Smyrn 1.1 | Ro 1:3-4 | c | 70 |
+Ignatius | 38 | Eph inscr | Ro 15:29 | d | 70 |
+Ignatius | 39 | Eph 15.3 | 2Co 6:16 | d | 70 |
+Ignatius | 40 | Trall 9.2 | 2Co 4:14 | d | 70 |
+Ignatius | 41 | Philad 6.3 | 2Co 1:12; 2Co 11:9; 2Co 12:16 | d | 70 |
+Ignatius | 42 | Philad 1.1 | Ga 1:1 | c | 70 |
+Ignatius | 43 | Eph 16.1 | Ga 5:21 | d | 70 |
+Ignatius | 44 | Eph 18.1 | Ga 5:11 | d | 71 |
+Ignatius | 45 | Trall 10.1 | Ga 2:21 | d | 71 |
+Ignatius | 46 | Rom 7.2 | Ga 6:14 | d | 71 |
+Ignatius | 47 | Smyrn 4.2 | Php 4:13 | c | 71 |
+Ignatius | 48 | Smyrn 11.3 | Php 3:15 | c | 71 |
+Ignatius | 49 | Rom 2.2; 4.2 | Php 2:17 | d | 71 |
+Ignatius | 50 | Philad 1.1; 8.2 | Php 2:3; Php 2:5 | d | 71 |
+Ignatius | 51 | Eph 14.1; Eph 20.1; Magn 8.1 | 1Ti 1:3-5 | c | 71 |
+Ignatius | 52 | Polyc 4.3 | 1Ti 6:2 | c | 72 |
+Ignatius | 53 | Rom 9.2 | 1Ti 1:13 | d | 72 |
+Ignatius | 54 | Smyrn 4.2 | 1Ti 1:12 | d | 72 |
+Ignatius | 55 | Eph 2.1; Smyrn 10.2 | 2Ti 1:16 | c | 72 |
+Ignatius | 56 | Polyc 6.2 | 2Ti 2:3-4 | c | 72 |
+Ignatius | 57 | Eph 17.1 | 2Ti 3:6 | d | 72 |
+Ignatius | 58 | Trall 7.2 | 2Ti 1:3 | d | 73 |
+Ignatius | 59 | Rom 2.2 | 2Ti 4:6 | d | 73 |
+Ignatius | 60 | Magn 8.1 | Tit 1:14; Tit 3:9 | c | 73 |
+Ignatius | 61 | Polyc 6.1 | Tit 1:7 | d | 73 |
+Ignatius | 63a | Eph 2.1 | Col 1:7; Col 4:7 | d | 74 | printed "(63*)"
+Ignatius | 64 | Eph 10.2 | Col 1:23 | d | 74 |
+Ignatius | 65 | Eph 17.2 | Col 2:2 | d | 74 |
+Ignatius | 66 | Eph 19.2 | Col 1:26 | d | 74 |
+Ignatius | 67 | Trall 5.2 | Col 1:16 | d | 74 | "things visible and invisible"
+Ignatius | 68 | Smyrn 1.2 | Col 2:14 | d | 74 |
+Ignatius | 69 | Smyrn 1.2 | Col 1:18 | d | 74 |
+Ignatius | 70 | Eph 10.1 | 1Th 5:17 | d | 74 |
+Ignatius | 71 | Rom 2.1 | 1Th 2:4 | d | 74 |
+Ignatius | 72 | Rom 10.3 | 2Th 3:5 | d | 75 |
+Ignatius | 73 | Eph 2.2 | Phm 1:20 | d | 75 |
+Polycarp | 1 | 5.3 | 1Co 6:9-10 | a | 85 |
+Polycarp | 2 | 11.2 | 1Co 6:2 | a | 85 | "sicut Paulus docet"
+Polycarp | 3 | 3.2-3 | 1Co 13:13 | c | 85 |
+Polycarp | 4 | 3.2; 11.4; 12.2 | 1Co 8:10; 1Co 14:4 | d | 85 |
+Polycarp | 5 | 4.3 | 1Co 14:25 | d | 86 |
+Polycarp | 6 | 10.1 | 1Co 15:58; Col 1:23 | d | 86 |
+Polycarp | 7 | 11.4 | 1Co 12:26 | d | 86 |
+Polycarp | 8 | 2.1 | 1Co 15:28 | u | 86 | "too weak to be classed"
+Polycarp | 18 | 6.3 | Tit 2:14 | d | 89 | listed under 1 Peter
+Polycarp | 19 | 12.2 | Ro 4:24; Ro 10:9; Ga 1:1; Col 2:12 | d | 89 | listed under 1 Peter
+Polycarp | 20 | 5.2; 6.1 | Eph 4:32 | d | 89 | listed under 1 Peter
+Polycarp | 21 | 6.2 | Ro 14:10; Ro 14:12; 2Co 5:10 | b | 89 |
+Polycarp | 22 | 4.1 | Ro 13:12; 2Co 6:7; Eph 6:13 | d | 90 |
+Polycarp | 23 | 3.3 | Ro 13:8-10; Ga 5:14 | d | 90 |
+Polycarp | 24 | 9.2 | Ro 8:17 | d | 90 | "should rather be treated as dependent on 2 Tim. 2:11"
+Polycarp | 25 | 10.1 | Ro 12:10 | d | 90 |
+Polycarp | 26 | 2.2 | 2Co 4:14 | b | 91 |
+Polycarp | 27 | 6.2 | 2Co 5:10 | c | 91 |
+Polycarp | 28 | 5.1 | 2Co 8:21; Ro 12:17 | d | 91 |
+Polycarp | 29 | 11.3 | 2Co 3:2 | d | 91 |
+Polycarp | 30 | 3.2 | 2Co 10:1 | d | 91 |
+Polycarp | 31 | 5.1 | Ga 6:7 | b | 92 |
+Polycarp | 32 | 3.3 | Ga 4:26 | b | 92 |
+Polycarp | 33 | 3.3 | Ga 5:14 | d | 92 |
+Polycarp | 34 | 5.3 | Ga 5:17 | d | 92 |
+Polycarp | 35 | 9.2 | Ga 2:2 | d | 92 |
+Polycarp | 36 | 1.3 | Eph 2:8-9 | b | 92 |
+Polycarp | 37 | 12.1 | Eph 4:26 | b | 93 | "ut his scripturis dictum est"
+Polycarp | 38 | 11.2 | Eph 5:5; Col 3:5 | c | 93 |
+Polycarp | 39 | 12.3 | Eph 6:18 | d | 94 |
+Polycarp | 40 | 3.2 | - | u | 94 | Paul "wrote you letters": no single passage
+Polycarp | 41 | 9.2 | Php 2:16; Ga 2:2 | b | 94 |
+Polycarp | 42 | 2.1 | Php 2:10; Php 3:21 | c | 94 |
+Polycarp | 43 | 12.3 | Php 3:18 | c | 94 |
+Polycarp | 44 | 1.1 | Php 2:17; Php 4:10 | d | 94 |
+Polycarp | 45 | 5.2 | Php 1:27 | d | 95 |
+Polycarp | 46 | 11.3 | 2Th 1:4 | b | 95 |
+Polycarp | 47 | 11.4 | 2Th 3:15 | c | 95 |
+Polycarp | 48 | 4.1 | 1Ti 6:7; 1Ti 6:10 | b | 95 |
+Polycarp | 49 | 4.3 | 1Ti 5:5 | c | 96 |
+Polycarp | 50 | 5.2 | 1Ti 3:8-11 | c | 96 |
+Polycarp | 51 | 8.1 | 1Ti 1:1 | c | 96 |
+Polycarp | 52 | 12.3 | 1Ti 2:1-2 | c | 96 |
+Polycarp | 53 | 11.2 | 1Ti 3:5 | d | 97 |
+Polycarp | 54 | 12.3 | 1Ti 4:15 | d | 97 |
+Polycarp | 55 | 9.2 | 2Ti 4:10 | b | 97 |
+Polycarp | 56 | 5.2 | 2Ti 2:11-12 | c | 97 |
+Polycarp | 57 | 11.4 | 2Ti 2:25 | c | 97 |
+Polycarp | 58 | 12.1 | 2Ti 1:5 | d | 98 |
+Polycarp | 69 | 1.2 | Col 1:5-6 | d | 101 |
+Polycarp | 70 | 10.1 | Col 1:23 | x | 101 | "see under 1 Corinthians (6)"
+Polycarp | 71 | 11.2 | Col 3:5 | x | 101 | "see under Ephesians (38)"
+Polycarp | 72 | 12.2 | Col 1:12 | d | 101 | "see under Acts (63)"
+Barnabas | 1 | 13.7 | Ro 4:3; Ro 4:10-11; Ro 4:17-18 | b | 3 |
+Barnabas | 2 | 13.2-3 | Ro 9:7-13 | d | 4 | "his knowledge of Romans is otherwise probable"
+Barnabas | 3 | 6.11-15; 16.8 | Eph 2:10; Eph 2:21-22; Eph 3:17; Eph 4:22-24; 2Co 5:17; 1Co 3:16-17 | c | 4 |
+Barnabas | 4 | 2.1 | Eph 5:16; Eph 2:2 | d | 6 |
+Barnabas | 5 | 3.6 | Eph 1:4-6 | d | 6 |
+Barnabas | 13 | 4.11 | 1Co 3:1-3; 1Co 3:16; 1Co 3:18-19 | d | 11 |
+Barnabas | 14 | 4.11-12 | 2Co 5:10 | d | 11 |
+Barnabas | 15 | 6.12 | Col 3:9-10 | d | 12 |
+Barnabas | 16 | 12.7 | Col 1:16-17 | d | 12 | "he may be echoing a striking phrase"
+Barnabas | 17 | 5.9 | 1Ti 1:15-16 | d | 12 |
+Barnabas | 18 | 5.6 | 1Ti 3:16 | d | 13 |
+Barnabas | 19 | 5.6 | 2Ti 1:10 | d | 13 |
+Barnabas | 20 | 7.2 | 2Ti 4:1 | d | 14 |
+Barnabas | 21 | 1.3, 4, 6 | Tit 3:5-7; Tit 1:2 | d | 14 |
+Barnabas | 22 | 14.5 | Tit 2:14 | d | 14 |
+Didache | 2 | 5.2 | Ro 12:9 | d | 25 |
+Didache | 8 | 10.6 | 1Co 16:22 | d | 27 |
+Hermas | 1 | Mand 4.4.1-2 | 1Co 7:39-40 | b | 105 |
+Hermas | 2 | Sim 9.12.1 | 1Co 10:4 | d | 105 |
+Hermas | 3 | Mand 10.2.1-5 | Eph 4:30 | b | 106 |
+Hermas | 4 | Sim 9.13.5; 9.17.4; 9.18.4 | Eph 4:3-6 | b | 106 |
+Hermas | 5 | Mand 3.1 | Eph 4:25 | d | 106 |
+Hermas | 6 | Sim 9.4.3; 9.15.4 | Eph 2:20* | d | 107 | Hermas has prophets among the foundation stones
+Hermas | 7 | Sim 9.16.2-3 | Eph 2:1; Eph 2:5 | d | 107 |
+Hermas | 25 | Mand 10.2.5 | Ro 8:26-27 | d | 115 |
+Hermas | 26 | Vis 3.9.10 | 1Th 5:13 | d | 115 |
+Hermas | 30 | Sim 9.12.2-3 | Col 1:15 | d | 116 | listed under 1 Peter
+2 Clement | 3 | 9.3 | 1Co 6:19; 1Co 3:16; Eph 2:20-22 | d | 126 | "temple of God": no "prophets"
+2 Clement | 4 | 7.1 | 1Co 9:24-25 | u | 126 |
+2 Clement | 5 | 11.7; 14.5 | 1Co 2:9 | u | 126 |
+2 Clement | 6 | 14.2 | Eph 1:22-23; Eph 5:23; Eph 1:4 | d | 126 |
+2 Clement | 7 | 19.2 | Eph 4:18 | u | 127 |
+2 Clement | 8 | 13.1 | Eph 6:6; Col 3:22 | u | 127 |
+2 Clement | 15 | 1.8 | Ro 4:17 | u | 128 |
+2 Clement | 16 | 8.2 | Ro 9:21 | u | 128 | potter and clay; "unsafe" because of Jeremiah 18
+2 Clement | 17 | 19.2 | Ro 1:21; Eph 4:18 | u | 128 |
+2 Clement | 18 | 20.5 | 1Ti 1:17 | u | 129 |
+2 Clement | 19 | 15.1 | 1Ti 4:16 | u | 129 |

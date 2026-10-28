@@ -1,50 +1,36 @@
-# Python environment and caches
+# environment
 .venv/
-__pycache__/
-*.py[cod]
 
-# Editor settings
-.vscode/
-
-# Downloaded by setup_data.py (licensed texts; anyone can re-download them)
+# downloaded text collections
 sblgnt/
-100_english_novels/
 canonical-greekLit/
+canonical-latinLit/
 First1KGreek/
-lxx/
-idp.data/
-ud/
 byzantine-majority-text/
-g1.xml
-g2.xml
+lxx/
+ud/
+idp.data/
 
-# Built by setup_data.py
-corpus_nt_chapters/
-corpus_nt_books/
+# generated corpora and outputs
 corpus_acts/
-corpus_nt_books_*/
+corpus_nt_books/
+corpus_nt_books_clean/
+corpus_nt_books_no_interpolations/
+corpus_nt_books_no_quotations/
+corpus_nt_chapters/
+english_demo/corpus_*
 removed_passages.txt
-english_demo/corpus_*/
-advanced/greek_reference.json
-advanced/letters_reference.json
-period_study/papyri_letters.json
-period_study/dated_authors.json
-period_study/rhetoric_texts.json
+g1.html
+g2.html
 
-# Private: never publish
+# private
+period_private.txt
+*.docx
+*.pdf
 tiktok_test/texts/
 book_claims/novels/
-*.docx
-diatribe_examples.txt
-letter_period/letter_texts.json
-letter_period/papyri_letters_accented.json
-letter_period/papyri_groups.json
-letter_period/papyri_trend_letters.json
-letter_period/tags_treebank.json
-letter_period/tags_stanza.json
-paul_lineup/lineup_texts.json
-
-canonical-latinLit/
+advanced/letters_reference.json
 marcion_text/adv_marc_5.txt
 rhetoric_across/vulgate/
 rhetoric_across/laodiceans.txt
+third_corinthians/texts/
